@@ -368,9 +368,10 @@ Name | Rating | Obtain Method | 6* in GL?
 :--|:--|:--|:--
 [Hubble UA](http://game8.jp/archives/109104) | 98 | Festival Hatcher | Yes
 [Faraday UA](http://game8.jp/archives/91383) | 98 [97] | Festival Hatcher | Yes
+[Coulomb](http://game8.jp/archives/173447) | 97 | Festival Hatcher | No
 [Kepler](http://game8.jp/archives/100890) | 96 | Festival Hatcher | Yes
-[Coulomb](http://game8.jp/archives/173447) | 96 | Festival Hatcher | No
 [Laplace](http://game8.jp/archives/120674) | 96 | Festival Hatcher | No
+[Mephisto](http://game8.jp/archives/173701) | 95 | Ultimate Wizard Quest | No
 [Mersenne](http://game8.jp/archives/137271) | 94 | Festival Hatcher | No
 [Fermat UA](http://game8.jp/archives/103265) | 94 | Festival Hatcher | No
 Confucius | [95] | Regional Festival | Yes
@@ -389,6 +390,7 @@ Confucius | [95] | Regional Festival | Yes
 [D'Artagnan](http://game8.jp/archives/140952) | 91 | Permanent Hatcher | No
 [Baldr](http://game8.jp/archives/44468) | 91 | Permanent Hatcher | Yes
 [Zeus](http://game8.jp/archives/71148) | 91 | Ultimate Wizard Quest | Yes
+[School Festival Kushinadahime](http://game8.jp/archives/174188) | 90 | School Event Hatcher | No
 [Herschel UA](http://game8.jp/archives/85079) | 90 | Festival Hatcher | No
 [Terry Bogard](http://game8.jp/archives/156806) | 90 | KoF Collab Hatcher | Yes
 [Metatron Emo Valentines Ver.](http://game8.jp/archives/124590) | 90 | Valentine's Event Hatcher | Yes
@@ -481,7 +483,5 @@ Star Prince | [82] | Regional Festival | Yes
 [Summer Freyja](http://game8.jp/archives/163384) | ? | Summer Hatcher | No
 [Summer Freyja (Tanned)](http://game8.jp/archives/164838) | ? | Summer Event Quest | No
 [Sphinx](http://game8.jp/archives/33746) | ? | Permanent Hatcher | No
-[Mephisto](http://game8.jp/archives/173701) | ? | Ultimate Wizard Quest | No
 [School Festival Baal](http://game8.jp/archives/174190) | ? | School Event Hatcher | No
-[School Festival Kushinadahime](http://game8.jp/archives/174188) | ? | School Event Hatcher | No
 
