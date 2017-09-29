@@ -199,7 +199,7 @@ Zheng Chenggong | [86] | Regional Festival | Yes
 [Andy Bogard](http://game8.jp/archives/156807) | 85 | KoF Collab Hatcher | Yes
 [Urs/Ulls/Urd](http://game8.jp/archives/116957) | 85 | Permanent Hatcher | Yes
 [Hugin and Munin](http://game8.jp/archives/44640) | 85 | Wizard Quest | Yes
-Satan | [84] | ToS Collab Hatcher | Yes
+Satan (Tower of Saviors) | [84] | ToS Collab Hatcher | Yes
 [Fool/Feurs](http://game8.jp/archives/41581) | 84 | Permanent Hatcher | Yes
 [Sanzo Hoshi UA](http://game8.jp/archives/144168) | 84 | Regional Festival | Yes
 [Lucifigus](http://game8.jp/archives/28763) | [83] | Permanent Hatcher | Yes
@@ -262,6 +262,7 @@ Name | Rating | Obtain Method | 6* in GL?
 [Guan Yu](http://game8.jp/archives/152345) | 95 | Regional Festival | Yes
 [Pauli](http://game8.jp/archives/128176) | 94 | Festival Hatcher | No
 [Dalton](http://game8.jp/archives/170300) | 94 | Festival Hatcher | No
+[Euler UA](http://game8.jp/archives/78852) | 94 | Festival Hatcher | Yes
 [Masamune](http://game8.jp/archives/54986) | 94 | Sword Ranking Ticket | Yes
 [Lakshmi](http://game8.jp/archives/93569) | 94 | Permanent Hatcher | Yes
 [Lu Bu](http://game8.jp/archives/91606) | 93 | Ultimate Wizard Quest | Yes
@@ -272,7 +273,6 @@ Tang Sanzang | [92] | ToS Collab Hatcher | Yes
 [Plateau](http://game8.jp/archives/142161) | 92 | Festival Hatcher | No
 [Lovers](http://game8.jp/archives/124489) | 92 | Ghost Store | No
 [Degas](http://game8.jp/archives/87929) | 92 | Permanent Hatcher | Yes
-[Euler UA](http://game8.jp/archives/78852) | 92 | Festival Hatcher | Yes
 [Gae Bolg](http://game8.jp/archives/74432) | 92 | Spear Ranking Ticket | Yes
 [Descartes UA](http://game8.jp/archives/168987) | 91 | Ranking Hatcher | No
 [Lucifer](http://game8.jp/archives/61092) | 91 | Ultimate Wizard Quest | Yes
@@ -444,6 +444,7 @@ Zhang Guolao | [86] | Wizard Quest | Yes
 [Mazu UA](http://game8.jp/archives/116194) | 86 | Regional Festival | Yes
 Summer Han Xiangzi | [85] (Tentative) | Summer Event Hatcher | Yes
 [Summer Kenshin](http://game8.jp/archives/163380) | 85 | Summer Event Hatcher | No
+[Summer Freyja (Tanned)](http://game8.jp/archives/164838) | 85 | Summer Event Quest | Yes
 [Shizuo Heiwajima DRRR Collab](http://game8.jp/archives/55962) | 85 | DRRR Collab Hatcher | No
 [Typhon](http://game8.jp/archives/71149) | 84 | Wizard Quest | Yes
 [Matsuri Forneus](http://game8.jp/archives/166542) | 83 | Matsuri Event Hatcher | No
@@ -493,7 +494,6 @@ Star Prince | [82] | Regional Festival | Yes
 [Muse](http://game8.jp/archives/83626) | 65 | Downloads Event | No
 [Jaro](http://game8.jp/archives/151359) | 65 | AI Customize Unit | Yes
 [Summer Freyja](http://game8.jp/archives/163384) | ? | Summer Hatcher | Yes
-[Summer Freyja (Tanned)](http://game8.jp/archives/164838) | ? | Summer Event Quest | Yes
 [Sphinx](http://game8.jp/archives/33746) | ? | Permanent Hatcher | No
 
 #Good 5\* units for cost limit quests
