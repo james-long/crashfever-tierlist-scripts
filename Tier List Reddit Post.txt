@@ -1,6 +1,6 @@
--8/24/17 - Element column deleted to avoid Reddit's 40k character limit
-
 -9/16/17 - Added School Event + Mephisto (& related) units
+
+-10/8/17 - Added Hacka Doll collab units
 
 **Important Note:**
 
@@ -47,7 +47,7 @@ Summer Guan Yu | [94] | Summer Event Hatcher | Yes
 [Trojan/Troy](http://game8.jp/archives/101076) | 90 | Ghost Store | Yes
 [Napoleon](http://game8.jp/archives/73322) | 90 | Permanent Hatcher | Yes
 [Megaphrodite](http://game8.jp/archives/133164) | 90 | BC Collab Hatcher | Yes
-[Legato](http://game8.jp/archives/175060) | 89 | School Event Ultimate Quest | No
+[Legato](http://game8.jp/archives/175060) | 90 | School Event Ultimate Quest | No
 [Sarutobi Sasuke](http://game8.jp/archives/108590) | 89 | Permanent Hatcher | Yes
 [Holmes](http://game8.jp/archives/168137) | 89 | Permanent Hatcher | No
 [Fondue](http://game8.jp/archives/124589) | 89 | Valentine's Event Hatcher | Yes
@@ -127,7 +127,9 @@ Chessia | [78] | ToS Collab Hatcher | Yes
 [Arthur](http://game8.jp/archives/41447) | 65 | Wizard Quest | Yes
 [Fenrir](http://game8.jp/archives/37498) | ? | Permanent Hatcher | Yes
 [Melissa](http://game8.jp/archives/30120) | ? | Virus Link Hatcher | No
-[Colossus] | ? | Wizard Quest | Yes
+[Synced To You Hacka Doll 1](http://game8.jp/archives/176746) | ? | Hacka Doll Collab Ticket Hatcher | No
+[Hacka Doll 2](http://game8.jp/archives/176747) | ? | Hacka Doll Collab Ticket Hatcher | No
+Colossus | ? | Wizard Quest | Yes
 
 #Blue Units
 
@@ -249,6 +251,7 @@ Antoine de Pilote | [79] | Wizard Quest | Yes
 [Azlo](http://game8.jp/archives/151362) | 65 | AI Customize Unit | Yes
 [Charlie](http://game8.jp/archives/30991) | 65 | Challenge Tower | No
 [Esutab](http://game8.jp/archives/42340) | ? | Permanent Hatcher | No
+[Hacka Doll 3](http://game8.jp/archives/176750) | ? | Hacka Doll Collab Quest | No
 Suleiman | ? | Regional Festival | Yes
 
 #Green Units
@@ -304,6 +307,7 @@ Summer Cao Cao | [91] | Summer Event Ultimate Quest | Yes
 [Yamata no Orochi](http://game8.jp/archives/33745) | 88 | Permanent Hatcher | Yes
 [Qasaran Pasarang/Unknown Cat](http://game8.jp/archives/133166)  | 88 | BC Collab Hatcher | Yes
 [Lemaitre UA](http://game8.jp/archives/118783) | 87 | Ranking Hatcher | Yes
+[Mashiro](http://game8.jp/archives/131385) | 87 | White Day Event Hatcher | Yes
 [Hatsune Miku](http://game8.jp/archives/43711) | 87 | Vocaloid Collab Hatcher | Yes
 [Lancelot](http://game8.jp/archives/39800) | 87 | Permanent Hatcher | Yes
 [Chizuru Kagura](http://game8.jp/archives/156808) | 87 | KoF Collab Hatcher | Yes
@@ -324,7 +328,6 @@ Han Xiangzi | [85] | Regional Festival | Yes
 [Sinbad](http://game8.jp/archives/140948) | 83 | Permanent Hatcher | No
 [Wakahirume](http://game8.jp/archives/126856) | 83 | Wizard Quest | Yes
 [Bride Bastet](http://game8.jp/archives/154517) | 83 | Bridal Event Hatcher | Yes
-[Mashiro](http://game8.jp/archives/131385) | 83 | White Day Event Hatcher | Yes
 [Hattori Hanzo](http://game8.jp/archives/142592) | 83 | Wizard Quest | No
 [West Queen/Sei Ou Nyan Nyan!](http://game8.jp/archives/114133) | 83 | Regional Festival | Yes
 [Ishtar](http://game8.jp/archives/85082) | 83 | Permanent Hatcher | Yes
@@ -499,6 +502,7 @@ Star Prince | [82] | Regional Festival | Yes
 [Jaro](http://game8.jp/archives/151359) | 65 | AI Customize Unit | Yes
 [Summer Freyja](http://game8.jp/archives/163384) | ? | Summer Hatcher | Yes
 [Sphinx](http://game8.jp/archives/33746) | ? | Permanent Hatcher | No
+[Hacka Doll 1](http://game8.jp/archives/176749) | ? | Hacka Doll Collab Quest | No
 
 #Good 5\* units for cost limit quests
 
