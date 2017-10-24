@@ -31,7 +31,7 @@ for colourNum in range(len(sheetNames)):
                          gameRating = gameRatings[num][:2]
                          if(gameRating.isdigit()):
                               if(gameRating != currRating):
-                                   print("Rating of " + gameRating + " (game8) does not match rating of " + currRating + " (tierlist) - " + gameNames[num])
+                                   print("Rating of " + gameRating + " (game8) does not match rating of " + currRating + " (tierlist) - " + fullName[:fullName.find("https://")-1])
 
 input("Analysis complete!")
                
