@@ -204,6 +204,7 @@ Zheng Chenggong | [86] | Regional Festival | Yes
 [Wigner](http://game8.jp/archives/86480) | 86 | Ranking Hatcher | Yes
 [Ryunosuke Akutagawa](http://game8.jp/archives/101916) | 85 | Permanent Hatcher | Yes
 [Andy Bogard](http://game8.jp/archives/156807) | 85 | KoF Collab Hatcher | Yes
+[Thor Halloween Ver.](http://game8.jp/archives/178815) | 85 | Halloween 2 Event Hatcher | Yes
 [Urs/Ulls/Urd](http://game8.jp/archives/116957) | 85 | Permanent Hatcher | Yes
 [Hugin and Munin](http://game8.jp/archives/44640) | 85 | Wizard Quest | Yes
 Satan (Tower of Saviors) | [84] | ToS Collab Hatcher | Yes
@@ -211,6 +212,7 @@ Satan (Tower of Saviors) | [84] | ToS Collab Hatcher | Yes
 [Fool/Feurs](http://game8.jp/archives/41581) | 84 | Permanent Hatcher | Yes
 [Sanzo Hoshi UA](http://game8.jp/archives/144168) | 84 | Regional Festival | Yes
 [Lucifigus](http://game8.jp/archives/28763) | [83] | Permanent Hatcher | Yes
+[Sanzo Hoshi](http://game8.jp/archives/103398) | 83 | Regional Festival | Yes
 [Forneus UA](http://game8.jp/archives/75760) | 83 | Permanent Hatcher | Yes
 [Akechi Kogoro](http://game8.jp/archives/168136) | 82 | Permanent Hatcher | No
 [Super Miracle Happy](http://game8.jp/archives/159645) | 82 [80] | Anniversary Quest | Yes
@@ -224,7 +226,6 @@ Satan (Tower of Saviors) | [84] | ToS Collab Hatcher | Yes
 [Nekomut/Bahamut](http://game8.jp/archives/133171) | 80 | BC Collab Quest | Yes
 Antoine de Pilote | [79] | Wizard Quest | Yes
 [School Festival Shoki](http://game8.jp/archives/174191) | 79 | School Event Quest | No
-[Sanzo Hoshi](http://game8.jp/archives/103398) | 79 | Regional Festival | Yes
 [Izanagi](http://game8.jp/archives/126853) | 79 | Permanent Hatcher | Yes
 [Elysee](http://game8.jp/archives/131027) | 79 | Story Quest | No
 [Hacka Doll 3](http://game8.jp/archives/176750) | 78 | Hacka Doll Collab Quest | No
@@ -254,7 +255,6 @@ Antoine de Pilote | [79] | Wizard Quest | Yes
 [Azlo](http://game8.jp/archives/151362) | 65 | AI Customize Unit | Yes
 [Charlie](http://game8.jp/archives/30991) | 65 | Challenge Tower | No
 [Gustav](http://game8.jp/archives/42340) | ? | Permanent Hatcher | No
-[Thor Halloween Ver.](http://game8.jp/archives/178815) | ? | Halloween 2 Event Hatcher | Yes
 
 #Green Units
 
@@ -272,6 +272,7 @@ Name | Rating | Obtain Method | 6* in GL?
 [Guan Yu](http://game8.jp/archives/152345) | 95 | Regional Festival | Yes
 [Pauli](http://game8.jp/archives/128176) | 94 | Festival Hatcher | No
 [Dalton](http://game8.jp/archives/170300) | 94 | Festival Hatcher | No
+[Bonanza](http://game8.jp/archives/96786) | 94 | 1st Queen's Tower | Yes
 [Cauchy Halloween Ver.](http://game8.jp/archives/178805) | 94 | Halloween 2 Event Hatcher | Yes
 [Euler UA](http://game8.jp/archives/78852) | 94 | Festival Hatcher | Yes
 [Masamune](http://game8.jp/archives/54986) | 94 | Sword Ranking Ticket | Yes
@@ -294,7 +295,6 @@ Leif | [92] | Regional Festival | Yes
 [Hikoboshi](http://game8.jp/archives/73591) | 91 | Tanabata Event Quest | Yes
 Summer Cao Cao | [91] | Summer Event Ultimate Quest | Yes
 [Lupin](http://game8.jp/archives/168171) | 90 | Ultimate Wizard Quest | No
-[Bonanza](http://game8.jp/archives/96786) | 90 | 1st Queen's Tower | Yes
 [De Morgan UA](http://game8.jp/archives/81711) | 90 | Ranking Hatcher | Yes
 [Summer Morse](http://game8.jp/archives/163382) | 90 | Summer Event Hatcher | Yes
 [Satan](http://game8.jp/archives/174151) | 90 | Permanent Hatcher | No
@@ -319,6 +319,7 @@ Summer Cao Cao | [91] | Summer Event Ultimate Quest | Yes
 [Chizuru Kagura](http://game8.jp/archives/156808) | 87 | KoF Collab Hatcher | Yes
 [Tolstoy](http://game8.jp/archives/101915) | 87 | Permanent Hatcher | Yes
 [Shoki](http://game8.jp/archives/47884) | 86 | Wizard Quest | Yes
+[Fool/Feurs Halloween Ver.](http://game8.jp/archives/178807) | 86 | Halloween 2 Event Hatcher | Yes
 [Skulls/Skulz/Skullz](http://game8.jp/archives/144243) | 86 | Event Wizard Quest | Yes
 [Inaba](http://game8.jp/archives/51845) | 86 | Permanent Hatcher | Yes
 [Lemaitre](http://game8.jp/archives/118779) | 85 | Ranking Hatcher | Yes
@@ -387,7 +388,6 @@ Circe | [73] | ToS Collab Quest | Yes
 [Peter Pan](http://game8.jp/archives/35485) | ? | Permanent Hatcher | No
 [Summer Freyr](http://game8.jp/archives/163385) | ? | Summer Event Quest | Yes
 [Pinocchio](http://game8.jp/archives/61644) | ? | Permanent Hatcher | No
-[Fool/Feurs Halloween Ver.](http://game8.jp/archives/178807) | ? | Halloween 2 Event Hatcher | Yes
 
 #Yellow Units
 
@@ -419,6 +419,7 @@ Confucius | [95] | Regional Festival | Yes
 [Zeus](http://game8.jp/archives/71148) | 91 | Ultimate Wizard Quest | Yes
 [Herschel UA](http://game8.jp/archives/85079) | 91 | Festival Hatcher | No
 [School Festival Kushinadahime](http://game8.jp/archives/174188) | 90 | School Event Hatcher | No
+[Loki Guard Ver.](http://game8.jp/archives/179246) | 90 | Halloween 2 Event Ultimate Quest | Yes
 [Terry Bogard](http://game8.jp/archives/156806) | 90 | KoF Collab Hatcher | Yes
 [Metatron Emo Valentines Ver.](http://game8.jp/archives/124590) | 90 | Valentine's Event Hatcher | Yes
 [Matsuri Enkidu](http://game8.jp/archives/166531) | 89 | Matsuri Event Hatcher | Yes
@@ -435,6 +436,7 @@ Confucius | [95] | Regional Festival | Yes
 [Sanson](http://game8.jp/archives/73324) | 88 | Permanent Hatcher | Yes
 [Hilbert UA](http://game8.jp/archives/105577) | 88 | Ranking Hatcher | Yes
 [Marduk](http://game8.jp/archives/85081) | 88 | Permanent Hatcher | Yes
+[Loki Halloween Ver.](http://game8.jp/archives/179248) | 88 | Halloween 2 Event Ultimate Quest | Yes
 [Fresnel UA](http://game8.jp/archives/124539) | 88 | Ranking Hatcher | Yes
 [Lemuria](http://game8.jp/archives/124490) | 88 | Ghost Store | No 
 [Thunder God Sandia 'Beta'/Thundia](http://game8.jp/archives/133169) | 88 | BC Collab Hatcher | Yes
@@ -456,7 +458,9 @@ Zhang Guolao | [86] | Wizard Quest | Yes
 [Natsume Soseki](http://game8.jp/archives/101917) | 86 | Permanent Hatcher | Yes
 [Nicola/Nicolas](http://game8.jp/archives/107287) | 86 | Christmas Ranking Hatcher | Yes
 [Hilbert](http://game8.jp/archives/105576) | 86 | Ranking Hatcher | Yes
+[Napoleon Halloween Ver.](http://game8.jp/archives/178812) | 86 | Halloween 2 Event Hatcher | Yes
 [Miyamoto Musashi UA](http://game8.jp/archives/93298) | 86 | Wizard Quest | Yes
+[Loki Chemist Ver.](http://game8.jp/archives/179247) | 86 | Halloween 2 Event Ultimate Quest | Yes
 [Hatsune Miku V3](http://game8.jp/archives/43809) | 86 | Vocaloid Event Quest | Yes
 [Mazu UA](http://game8.jp/archives/116194) | 86 | Regional Festival | Yes
 Summer Han Xiangzi | [85] | Summer Event Hatcher | Yes
@@ -484,6 +488,7 @@ Star Prince | [82] | Regional Festival | Yes
 [Yue Lao UA](http://game8.jp/archives/144170) | 80 | Limited Quest | No
 [Yue Lao](http://game8.jp/archives/114428) | 80 | Limited Quest | Yes
 [Kagamine Rin Vocaloid Collab](http://game8.jp/archives/43713) | 79 | Vocaloid Collab Hatcher | Yes
+[Gawain Halloween Ver.](http://game8.jp/archives/178811) | 79 | Halloween 2 Event Hatcher | Yes
 [Kagamine Len Vocaloid Collab](http://game8.jp/archives/44196) | 79 | Vocaloid Collab Hatcher | Yes
 [Yomi](http://game8.jp/archives/47883) | 78 | Wizard Quest | Yes
 [Hansel and Gretel](http://game8.jp/archives/35484) | 78 | Permanent Hatcher | Yes
@@ -514,11 +519,6 @@ Star Prince | [82] | Regional Festival | Yes
 [Muse](http://game8.jp/archives/83626) | 65 | Downloads Event | No
 [Jaro](http://game8.jp/archives/151359) | 65 | AI Customize Unit | Yes
 Columbus | ? | Wizard Quest | Yes
-[Napoleon Halloween Ver.](http://game8.jp/archives/178812) | ? | Halloween 2 Event Hatcher | Yes
-[Gawain Halloween Ver.](http://game8.jp/archives/178811) | ? | Halloween 2 Event Hatcher | Yes
-[Loki Halloween Ver.](http://game8.jp/archives/179248) | ? | Halloween 2 Event Ultimate Quest | Yes
-[Loki Chemist Ver.](http://game8.jp/archives/179247) | ? | Halloween 2 Event Ultimate Quest | Yes
-[Loki Guard Ver.](http://game8.jp/archives/179246) | ? | Halloween 2 Event Ultimate Quest | Yes
 
 #Good 5\* units for cost limit quests
 
