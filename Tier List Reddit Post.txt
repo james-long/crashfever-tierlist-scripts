@@ -1,524 +1,549 @@
 #Important Note
 
 * **Only 6 stars are listed here.** There is a section at the bottom for good 5 stars. This means everything on the list gets a 6* eventually.
-* Ratings in square brackets are the Discord rating for a unit - these are discussed by members of the Discord community and aim to correct Game8 ratings that seem a tad off.
+* Ratings in square brackets are the Discord rating for a unit - these are discussed by the Discord community and aim to correct contentious Game8 ratings.
 * Units that do not have links are not in the JP version, and thus Game8 does not make unit pages on them.
 * If you have any questions to as why a unit got a ranking, or notice an error in the list, contact me and I'll reply as soon as I can.
 
 #Red Units
 
-Name | Rating | Obtain Method | 6* in GL?
-:--|:--|:--|:--
-[Morse](http://game8.jp/archives/93206) | 98 | Festival Hatcher | Yes
-Cai Shen | [97] | Regional Festival | No
-[Fahrenheit](http://game8.jp/archives/158326) | 97 | Festival Hatcher | No
-[Excalibur](http://game8.jp/archives/168986) | 96 | Sword Ver. 2 Ranking Ticket | No
-[Schrodinger UA](http://game8.jp/archives/106354) | 96 | Festival Hatcher | Yes
-[Freud/Froid UA](http://game8.jp/archives/109112) | 96 | Festival Hatcher | Yes
-[Kyo Kusanagi](http://game8.jp/archives/156800) | 96 | KoF Collab Hatcher | Yes
-[Seki](http://game8.jp/archives/91375) | 96 [95] | Festival Hatcher | Yes
-[Oda Nobunaga UA](http://game8.jp/archives/121289) | 95 | Ultimate Wizard Quest | No
-[Cardano](http://game8.jp/archives/177648) | 95 | Festival Hatcher | No
-[Cauchy](http://game8.jp/archives/85084) | 95 | Festival Hatcher | Yes
-[Rose](http://game8.jp/archives/137211) | 95 | 2nd Queen's Tower | No
-[Bohr](http://game8.jp/archives/107260) | 95 | Festival Hatcher | Yes
-[Mai Shiranui](http://game8.jp/archives/156802) | 95 | KoF Collab Hatcher | Yes
-[Lagrange UA](http://game8.jp/archives/83636) | 94 | Festival Hatcher | Yes
-[Samhain](http://game8.jp/archives/178813) | 94 | Halloween 2 Event Hatcher | Yes
-[Oda Nobunaga](http://game8.jp/archives/47885) | 94 | Ultimate Wizard Quest | Yes
-[Gambanteinn](http://game8.jp/archives/105578) | 94 | Staff Ranking Ticket | Yes
-Summer Guan Yu | [95] | Summer Event Hatcher | Yes
-[Summer Hubble](http://game8.jp/archives/163386) | 93 | Summer Event Hatcher | Yes
-[Gilgamesh](http://game8.jp/archives/67608) | 93 | Ultimate Wizard Quest | Yes
-[Summer Dirac](http://game8.jp/archives/163387) | 93 | Summer Event Hatcher | Yes
-[Muramasa](http://game8.jp/archives/54985) | 93 | Sword Ranking Ticket | Yes
-[Toyotomi Hideyoshi](http://game8.jp/archives/108606) | 93 | Ultimate Wizard Quest | Yes
-[ChunHyang/ChunXiang](http://game8.jp/archives/161992) | 93 | Regional Festival | No
-[Lily](http://game8.jp/archives/154512) | 92 | Bridal Event Hatcher | Yes
-[Volta](http://game8.jp/archives/132161) | 92 [96] | Festival Hatcher | No
-[Zhuge Liang](http://game8.jp/archives/91686) | 91 | Permanent Hatcher | Yes
-[DRTH Sanrio Ver.](http://game8.jp/archives/67593) | 91 | Sanrio Collab | No
-[Alexander](http://game8.jp/archives/155011) | 91 | Ultimate Wizard Quest | No
-[Strength](http://game8.jp/archives/131665) | 91 | Ghost Shop | No
-[Iori Yagami](http://game8.jp/archives/156809) | 90 [92] | KoF Collab Ultimate Quest | Yes
-[Paracelsus](http://game8.jp/archives/144337) | 90 | Festival Hatcher | Yes
-[Trojan/Troy](http://game8.jp/archives/101076) | 90 | Ghost Store | Yes
-[Napoleon](http://game8.jp/archives/73322) | 90 | Permanent Hatcher | Yes
-[Megaphrodite](http://game8.jp/archives/133164) | 90 [88] | BC Collab Hatcher | Yes
-[Legato](http://game8.jp/archives/175060) | 90 | School Event Ultimate Quest | No
-[Sarutobi Sasuke](http://game8.jp/archives/108590) | 89 | Permanent Hatcher | Yes
-[Holmes](http://game8.jp/archives/168137) | 89 | Permanent Hatcher | No
-[Fondue](http://game8.jp/archives/124589) | 89 | Valentine's Event Hatcher | Yes
-[Heighway UA](http://game8.jp/archives/118823) | 89 | Ranking Hatcher | No
-Summer Zheng Chenggong | [88] | Summer Event Hatcher | Yes
-[Thumbelina](http://game8.jp/archives/35481) | 88 | Permanent Hatcher | Yes
-[Kushinadahime/Princess Kushinada](http://game8.jp/archives/126852) | 88 | Permanent Hatcher | Yes
-[Chelsea](http://game8.jp/archives/171424) | 88 | School Event Hatcher | No
-[Summer Izanami](http://game8.jp/archives/163388) | 88 | Summer Event Hatcher | No
-[Garuda](http://game8.jp/archives/146265) | 88 | Regional Festival | Yes
-[Cleopatra](http://game8.jp/archives/147024) | 88 | Permanent Hatcher | No
-[King Draig](http://game8.jp/archives/41582) | 88 | Permanent Hatcher | Yes
-[Frenzied Cat Builder/Crazed Macho Cat](http://game8.jp/archives/133172) | 88 | BC Collab Ultimate Quest | Yes
-[Megurine Luka V4X] (http://game8.jp/archives/119978) | 87 | Vocaloid Collab Hatcher | Yes
-[Lancelot Halloween Ver.](http://game8.jp/archives/95301) | 87 | Halloween Event Hatcher | Yes
-[Mikasa Attack on Titan](http://game8.jp/archives/75462) | 87 | AoT Collab Hatcher | No
-[Roy Mustang](http://game8.jp/archives/150115) | 86 | FMA Collab Hatcher | No
-[Thor](http://game8.jp/archives/116956) | 86 | Permanent Hatcher | Yes
-[Maclaurin UA](http://game8.jp/archives/94362) | 86 | Ranking Hatcher | Yes
-[Orihime](http://game8.jp/archives/73569) | 86 | Tanabata Event Hatcher | Yes
-[Synced To You Hacka Doll 1](http://game8.jp/archives/176746) | 86 | Hacka Doll Collab Ticket Hatcher | No
-[Cornet](http://game8.jp/archives/124728) | 86 | Valentine's Event Hatcher | Yes
-[Chris UA](http://game8.jp/archives/156834) | 86 | KoF Collab Quest | Yes
-[Praline](http://game8.jp/archives/124587) | 86 | Valentine's Event Quest | Yes
-[Nemesis](http://game8.jp/archives/97779) | 86 [88] | Permanent Hatcher | Yes
-[Metatron](http://game8.jp/archives/59230) | 85 | Permanent Hatcher | Yes
-[Maclaurin](http://game8.jp/archives/94363) | 85 | Ranking Hatcher | Yes
-[Bride Snow White](http://game8.jp/archives/154516) | 85 | Bridal Event Hatcher | Yes
-[Paula and Danny](http://game8.jp/archives/106905) | 85 [82] | Christmas Event Quest | Yes
-[Amaterasu](http://game8.jp/archives/30987) | 85 | Wizard Quest | Yes
-[Apollo](http://game8.jp/archives/71120) | 85 | Permanent Hatcher | Yes
-[Isamu Kondo](http://game8.jp/archives/32721) | 85 | Permanent Hatcher | Yes
-Medea | [83] | ToS Collab Hatcher | Yes
-[Son Goku UA](http://game8.jp/archives/144171) | 83 | Wizard Quest | No
-[Heartful Cat Nurse](http://game8.jp/archives/133168) | 82 | BC Collab Hatcher | Yes
-[Amon](http://game8.jp/archives/174152) | 82 | Permanent Hatcher | No
-[Atsuhime](http://game8.jp/archives/178291) | 82 | Permanent Hatcher | No
-[Jekyll & Hyde](http://game8.jp/archives/140971) | 82 | Wizard Quest | No
-[Hacka Doll 2](http://game8.jp/archives/176747) | 81 | Hacka Doll Collab Ticket Hatcher | No
-[Freyr/Frey](http://game8.jp/archives/47655) | 82 | Wizard Quest | Yes
-[Eren Attack on Titan](http://game8.jp/archives/75466) | 82 | AoT Collab Hatcher | No
-[Ra](http://game8.jp/archives/79527) | 81 [84] | Permanent Hatcher | Yes
-[Hokusai](http://game8.jp/archives/87928) | 81 | Permanent Hatcher | Yes
-Summer Lan Caihe | [82] | Summer Event Quest | Yes
-[Bootleg Perrault](http://game8.jp/archives/42332) | 81 | Permanent Hatcher | Yes
-[Eris](http://game8.jp/archives/89959) | 80 | Wizard Quest | No
-[Erwin/Elune](http://game8.jp/archives/159646) | 80 | Anniversary Quest | Yes
-[Karma/Kama](http://game8.jp/archives/49208) | 80 | Wizard Quest | Yes
-[Summer Kirin/Qilin](http://game8.jp/archives/76614) | 80 [83] | Summer Event Ultimate Quest | Yes
-[Garnet](http://game8.jp/archives/154511) | 79 [84] | Bridal Event Quest | Yes
-[Hazuru](http://game8.jp/archives/51839) | 79 | Permanent Hatcher | Yes
-[DRTH] (http://game8.jp/archives/39579) | 78 | Permanent Hatcher | Yes
-[Amaterasu UA](http://game8.jp/archives/86115) | 78 | Wizard Quest | Yes
-[Galaxy Warrior Cosmo/Super Galaxy Cosmo](http://game8.jp/archives/133165) | 78 | BC Collab Hatcher | Yes
-[Chris](http://game8.jp/archives/156832) | 78 | KoF Collab Quest | Yes
-Chessia | [78] | ToS Collab Hatcher | Yes
-[School Festival Antoinette](http://game8.jp/archives/171422) | 78 | School Event Hatcher | No
-[Uranus](http://game8.jp/archives/97820) | 78 | Wizard Quest | Yes
-[Kali](http://game8.jp/archives/93563) | 77 | Wizard Quest | Yes
-[Kurumi](http://game8.jp/archives/47848) | 77 | Permanent Hatcher | Yes
-[Shingen Takeda](http://game8.jp/archives/53944) | 77 | Wizard Quest | Yes
-[Belial UA](http://game8.jp/archives/74191) | 76 | Permanent Hatcher | Yes
-[King Enra](http://game8.jp/archives/114130) | 76 | Regional Festival | Yes
-[Colossal Titan Attack on Titan](http://game8.jp/archives/79847) | 76 | AoT Collab Quest | No
-[Ymir](http://game8.jp/archives/43332) | 76 | Permanent Hatcher | No
-[Arthur UA](http://game8.jp/archives/100443) | 75 | Wizard Quest | No
-[Watson](http://game8.jp/archives/168135) | 75 | Permanent Hatcher | No
-[Prometheus](http://game8.jp/archives/28747) | 75 | Permanent Hatcher | Yes
-[Suzaku](http://game8.jp/archives/40012) | 74 | Link Hatcher | Yes
-[Hellraiser](http://game8.jp/archives/151371) | 73 | 8M Downloads Event | Yes
-[Anri Sonohara](http://game8.jp/archives/54282) | 72 | DRRR Collab Quest | No
-[Christmas Belial](http://game8.jp/archives/41046) | 72 | Christmas Event Hatcher | Yes
-[Totori](http://game8.jp/archives/112196) | 71 | New Years Quest | Yes
-[Kyo Kusanagi '95](http://game8.jp/archives/156811) | 70 | KoF Collab Ticket Hatcher | Yes
-[Son Goku](http://game8.jp/archives/104838) | 70 | Wizard Quest | Yes
-[Louis XVI/Louis 16 of the World](http://game8.jp/archives/73139) | 70 | Wizard Quest | Yes
-[Agra](http://game8.jp/archives/131026) | 66 | Story Quest | No
-[Belial](http://game8.jp/archives/28722) | 65 | Permanent Hatcher | Yes
-[Rosso](http://game8.jp/archives/151351) | 65 | AI Customize Unit | Yes
-[Arthur](http://game8.jp/archives/41447) | 65 | Wizard Quest | Yes
-[Fenrir](http://game8.jp/archives/37498) | ? | Permanent Hatcher | Yes
-[Melissa](http://game8.jp/archives/30120) | ? | Virus Link Hatcher | No
-Colossus | ? | Wizard Quest | Yes
-[Mermaid Halloween Ver.](http://game8.jp/archives/178814) | ? | Halloween 2 Event Hatcher | Yes
+Name | Rating | Obtain Method
+:--|:--|:--
+[Morse](http://game8.jp/archives/93206) | 98 | Festival Hatcher
+Cai Shen | [97] | Regional Festival
+[Fahrenheit](http://game8.jp/archives/158326) | 97 | Festival Hatcher
+[Excalibur](http://game8.jp/archives/168986) | 96 | Sword Ver. 2 Ranking Ticket
+[Schrodinger UA](http://game8.jp/archives/106354) | 96 | Festival Hatcher
+[Freud/Froid UA](http://game8.jp/archives/109112) | 96 | Festival Hatcher
+[Kyo Kusanagi](http://game8.jp/archives/156800) | 96 | KoF Collab Hatcher
+[Seki](http://game8.jp/archives/91375) | 96 [94] | Festival Hatcher
+[Oda Nobunaga UA](http://game8.jp/archives/121289) | 95 | Ultimate Wizard Quest
+[Cardano](http://game8.jp/archives/177648) | 95 | Festival Hatcher
+[Summer Guan Yu](http://game8.jp/crashfever/185196) | [95] | Summer Event Hatcher
+[Megumin Pajama Ver.](http://game8.jp/archives/182707) | 95 | Konosuba Collab Hatcher
+[Cauchy](http://game8.jp/archives/85084) | 95 | Festival Hatcher
+[Rose](http://game8.jp/archives/137211) | 95 | 2nd Queen's Tower
+[Bohr](http://game8.jp/archives/107260) | 95 | Festival Hatcher
+[Mai Shiranui](http://game8.jp/archives/156802) | 95 | KoF Collab Hatcher
+[Lagrange UA](http://game8.jp/archives/83636) | 94 | Festival Hatcher
+[Megumin](http://game8.jp/crashfever/182708) | 94 | Konosuba Collab Hatcher
+[Oda Nobunaga](http://game8.jp/archives/47885) | 94 | Ultimate Wizard Quest
+[Gambanteinn](http://game8.jp/archives/105578) | 94 | Staff Ranking Ticket
+[ChunHyang/Haruka](http://game8.jp/archives/161992) | 93 [94] | Regional Festival
+[Samhain](http://game8.jp/archives/178813) | 93 [94] | Halloween 2 Event Hatcher
+[Gilgamesh](http://game8.jp/archives/67608) | 93 | Ultimate Wizard Quest
+[Summer Hubble](http://game8.jp/archives/163386) | 93 | Summer Event Hatcher
+[Summer Dirac](http://game8.jp/archives/163387) | 93 | Summer Event Hatcher
+[Muramasa](http://game8.jp/archives/54985) | 93 | Sword Ranking Ticket
+[Toyotomi Hideyoshi](http://game8.jp/archives/108606) | 93 [91] | Ultimate Wizard Quest
+[Lily](http://game8.jp/archives/154512) | 92 | Bridal Event Hatcher
+[Volta](http://game8.jp/archives/132161) | 92 [96] | Festival Hatcher
+[Zhuge Liang](http://game8.jp/archives/91686) | 91 | Permanent Hatcher
+[DRTH Sanrio Ver.](http://game8.jp/archives/67593) | 91 | Sanrio Collab
+[Alexander](http://game8.jp/archives/155011) | 91 | Ultimate Wizard Quest
+[Strength](http://game8.jp/archives/131665) | 91 | Ghost Shop
+[Iori Yagami](http://game8.jp/archives/156809) | 90 [91] | KoF Collab Ultimate Quest
+[Paracelsus](http://game8.jp/archives/144337) | 90 | Festival Hatcher
+[Trojan/Troy](http://game8.jp/archives/101076) | 90 | Ghost Store
+[Napoleon](http://game8.jp/archives/73322) | 90 [88] | Permanent Hatcher
+[Megaphrodite](http://game8.jp/archives/133164) | 90 [88] | BC Collab Hatcher
+[Legato](http://game8.jp/archives/175060) | 90 | School Event Ultimate Quest
+[Sarutobi Sasuke](http://game8.jp/archives/108590) | 89 | Permanent Hatcher
+[Holmes](http://game8.jp/archives/168137) | 89 | Permanent Hatcher
+[Fondue](http://game8.jp/archives/124589) | 89 | Valentine's Event Hatcher
+[Heighway UA](http://game8.jp/archives/118823) | 89 | Ranking Hatcher
+Summer Zheng Chenggong | [88] | Summer Event Hatcher
+[Thumbelina](http://game8.jp/archives/35481) | 88 | Permanent Hatcher
+[Kushinadahime/Princess Kushinada](http://game8.jp/archives/126852) | 88 | Permanent Hatcher
+[Chelsea](http://game8.jp/archives/171424) | 88 | School Event Hatcher
+[Summer Izanami](http://game8.jp/archives/163388) | 88 | Summer Event Hatcher
+[Garuda](http://game8.jp/archives/146265) | 88 | Regional Festival
+[Cleopatra](http://game8.jp/archives/147024) | 88 | Permanent Hatcher
+[King Draig](http://game8.jp/archives/41582) | 88 | Permanent Hatcher
+[Frenzied Cat Builder/Crazed Macho Cat](http://game8.jp/archives/133172) | 88 | BC Collab Ultimate Quest
+[Megurine Luka V4X] (http://game8.jp/archives/119978) | 87 | Vocaloid Collab Hatcher
+[Lancelot Halloween Ver.](http://game8.jp/archives/95301) | 87 | Halloween Event Hatcher
+[Mikasa Attack on Titan](http://game8.jp/archives/75462) | 87 | AoT Collab Hatcher
+[Roy Mustang](http://game8.jp/archives/150115) | 86 | FMA Collab Hatcher
+[Thor](http://game8.jp/archives/116956) | 86 | Permanent Hatcher
+[Maclaurin UA](http://game8.jp/archives/94362) | 86 | Ranking Hatcher
+[Orihime](http://game8.jp/archives/73569) | 86 | Tanabata Event Hatcher
+[Synced To You Hacka Doll 1](http://game8.jp/archives/176746) | 86 | Hacka Doll Collab Ticket Hatcher
+[Cornet](http://game8.jp/archives/124728) | 86 | Valentine's Event Hatcher
+[Chris UA](http://game8.jp/archives/156834) | 86 | KoF Collab Quest
+[Praline](http://game8.jp/archives/124587) | 86 | Valentine's Event Quest
+[Nemesis](http://game8.jp/archives/97779) | 86 [88] | Permanent Hatcher
+[Metatron](http://game8.jp/archives/59230) | 85 | Permanent Hatcher
+[Maclaurin](http://game8.jp/archives/94363) | 85 | Ranking Hatcher
+[Bride Snow White](http://game8.jp/archives/154516) | 85 | Bridal Event Hatcher
+[Paula and Danny](http://game8.jp/archives/106905) | 85 [82] | Christmas Event Quest
+[Amaterasu](http://game8.jp/archives/30987) | 85 | Wizard Quest
+[Apollo](http://game8.jp/archives/71120) | 85 | Permanent Hatcher
+[Isamu Kondo](http://game8.jp/archives/32721) | 85 | Permanent Hatcher
+Medea | [83] | ToS Collab Hatcher
+[Son Goku UA](http://game8.jp/archives/144171) | 83 | Wizard Quest
+[Heartful Cat Nurse](http://game8.jp/archives/133168) | 82 | BC Collab Hatcher
+[Amon](http://game8.jp/archives/174152) | 82 | Permanent Hatcher
+[Atsuhime](http://game8.jp/archives/178291) | 82 | Permanent Hatcher
+[Jekyll & Hyde](http://game8.jp/archives/140971) | 82 | Wizard Quest
+[Hacka Doll 2](http://game8.jp/archives/176747) | 81 | Hacka Doll Collab Ticket Hatcher
+[Freyr/Frey](http://game8.jp/archives/47655) | 82 | Wizard Quest
+[Eren Attack on Titan](http://game8.jp/archives/75466) | 82 | AoT Collab Hatcher
+[Ra](http://game8.jp/archives/79527) | 81 [84] | Permanent Hatcher
+[Hokusai](http://game8.jp/archives/87928) | 81 | Permanent Hatcher
+[Summer Lan Caihe](http://game8.jp/crashfever/185195) | [82] | Summer Event Quest
+[Bootleg Perrault](http://game8.jp/archives/42332) | 81 | Permanent Hatcher
+[Eris](http://game8.jp/archives/89959) | 80 | Wizard Quest
+[Erwin/Elune](http://game8.jp/archives/159646) | 80 | Anniversary Quest
+[Karma/Kama](http://game8.jp/archives/49208) | 80 | Wizard Quest
+[Summer Kirin/Qilin](http://game8.jp/archives/76614) | 80 [83] | Summer Event Ultimate Quest
+[Garnet](http://game8.jp/archives/154511) | 79 [84] | Bridal Event Quest
+[Hazuru](http://game8.jp/archives/51839) | 79 | Permanent Hatcher
+[Mermaid Halloween Ver.](http://game8.jp/archives/178814) | 79 | Halloween 2 Event Hatcher
+[DRTH] (http://game8.jp/archives/39579) | 78 | Permanent Hatcher
+[Amaterasu UA](http://game8.jp/archives/86115) | 78 | Wizard Quest
+[Galaxy Warrior Cosmo/Super Galaxy Cosmo](http://game8.jp/archives/133165) | 78 | BC Collab Hatcher
+[Chris](http://game8.jp/archives/156832) | 78 | KoF Collab Quest
+Chessia | [78] | ToS Collab Hatcher
+[School Festival Antoinette](http://game8.jp/archives/171422) | 78 | School Event Hatcher
+[Uranus](http://game8.jp/archives/97820) | 78 | Wizard Quest
+[Kali](http://game8.jp/archives/93563) | 77 | Wizard Quest
+[Kurumi](http://game8.jp/archives/47848) | 77 | Permanent Hatcher
+[Shingen Takeda](http://game8.jp/archives/53944) | 77 | Wizard Quest
+[Belial UA](http://game8.jp/archives/74191) | 76 | Permanent Hatcher
+[King Enra](http://game8.jp/archives/114130) | 76 | Regional Festival
+[Colossal Titan Attack on Titan](http://game8.jp/archives/79847) | 76 | AoT Collab Quest
+[Ymir](http://game8.jp/archives/43332) | 76 | Permanent Hatcher
+[Arthur UA](http://game8.jp/archives/100443) | 75 | Wizard Quest
+[Watson](http://game8.jp/archives/168135) | 75 | Permanent Hatcher
+[Prometheus](http://game8.jp/archives/28747) | 75 | Permanent Hatcher
+[Suzaku](http://game8.jp/archives/40012) | 74 | Link Hatcher
+[Hellraiser](http://game8.jp/archives/151371) | 73 | 8M Downloads Event
+[Anri Sonohara](http://game8.jp/archives/54282) | 72 | DRRR Collab Quest
+[Christmas Belial](http://game8.jp/archives/41046) | 72 | Christmas Event Hatcher
+[Totori](http://game8.jp/archives/112196) | 71 | New Years Quest
+[Kyo Kusanagi '95](http://game8.jp/archives/156811) | 70 | KoF Collab Ticket Hatcher
+[Urashima](http://game8.jp/crashfever/37506) | 70 | Material Quest
+[Son Goku](http://game8.jp/archives/104838) | 70 | Wizard Quest
+[Louis XVI/Louis 16 of the World](http://game8.jp/archives/73139) | 70 | Wizard Quest
+[Agra](http://game8.jp/archives/131026) | 66 | Story Quest
+[Belial](http://game8.jp/archives/28722) | 65 | Permanent Hatcher
+[Rosso](http://game8.jp/archives/151351) | 65 | AI Customize Unit
+[Arthur](http://game8.jp/archives/41447) | 65 | Wizard Quest
+[Fenrir](http://game8.jp/archives/37498) | ? | Permanent Hatcher
+[Melissa](http://game8.jp/archives/30120) | ? | Virus Link Hatcher
+Colossus | ? | Wizard Quest
+[Rutherford](http://game8.jp/crashfever/181696) | ? | Ranking Hatcher
+[Rutherford UA](http://game8.jp/crashfever/181695) | ? | Ranking Hatcher
+[Jang Yeong-sil](http://game8.jp/crashfever/185755) | ? | Regional Festival
 
 #Blue Units
 
-Name | Rating | Obtain Method | 6* in GL?
-:--|:--|:--|:--
-[Euclid UA](http://game8.jp/archives/91385) | 98 | Festival Hatcher | Yes
-[Summer Faraday](http://game8.jp/archives/73572) | 98 | Summer Event Hatcher | Yes
-[Celsius](http://game8.jp/archives/151382) | 97 | Festival Hatcher | Yes
-[Dirac](http://game8.jp/archives/84100) | 96 [95] | Festival Hatcher | Yes
-[Bernoulli](http://game8.jp/archives/103715) | 96 | Festival Hatcher | Yes
-[Boolean/Boole UA](http://game8.jp/archives/103266) | 96 | Festival Hatcher | Yes
-[Ame no Murakumo](http://game8.jp/archives/54987) | 96 [95] | Sword Ranking Ticket | Yes
-[Neumann](http://game8.jp/archives/48939) | 95 | Festival Hatcher | Yes
-[Summer Freud/Froid](http://game8.jp/archives/126449) | 95 [96] | Summer Event Hatcher | Yes
-[Murasaki Shikibu](http://game8.jp/archives/83097) | 94 | Permanent Hatcher | Yes
-[Maxwell](http://game8.jp/archives/159654) | 94 | Anniversary Hatcher | Yes
-[Fibonacci UA](http://game8.jp/archives/101075) | 94 | Festival Hatcher | Yes
-Summer Confucius | [94] | Summer Event Hatcher | Yes
-[Hempel UA](http://game8.jp/archives/106358) | 94 | Festival Hatcher | Yes
-[Dark Catman](http://game8.jp/archives/133167) | 94 | BC Collab Hatcher | Yes
-[Lawrence](http://game8.jp/archives/41775) | 93 [91] | Permanent Hatcher | No
-[Summer Euler](http://game8.jp/archives/73573) | 93 | Summer Event Hatcher | Yes
-Summer He Xiangu | [93] | Summer Event Hatcher | Yes
-[Jung](http://game8.jp/archives/126412) | 93 | Festival Hatcher | No
-[Summer Schrodinger](http://game8.jp/archives/73578) | 93 [94] | Summer Event Hatcher | Yes
-[Trident](http://game8.jp/archives/74433) | 93 | Spear Ranking Ticket | Yes
-[Perry](http://game8.jp/archives/178306) | 92 | Ultimate Wizard Quest | No
-[Odin UA](http://game8.jp/archives/121288) | 92 | Ultimate Wizard Quest | No
-[Andersen](http://game8.jp/archives/140985) | 92 | Ultimate Wizard Quest | No
-[Jeanne UA](http://game8.jp/archives/89972) | 91 | Wizard Quest | Yes
-[Summer Mobius](http://game8.jp/archives/73575) | 91 | Festival Hatcher | Yes
-[Set](http://game8.jp/archives/79331) | 91 | Ultimate Wizard Quest | Yes
-[Khakkhara/Sha Wujing](http://game8.jp/archives/105579) | 91 | Staff Ranking Ticket | Yes
-[Fortuna](http://game8.jp/archives/154513) | 91 | Bridal Event Hatcher | Yes
-[Mobius UA](http://game8.jp/archives/85077) | 91 | Festival Hatcher | Yes
-[Schwarzschild UA](http://game8.jp/archives/126521) | 90 | Ranking Hatcher | Yes
-[Ibarahime/Sleeping Beauty](http://game8.jp/archives/140951) | 90 | Permanent Hatcher | No
-[Odin](http://game8.jp/archives/46589) | 90 | Ultimate Wizard Quest | Yes
-[Chariot](http://game8.jp/archives/116188) | 90 | Ghost Store | No
-[Leibniz UA](http://game8.jp/archives/148433) | 89 | Ranking Hatcher | No
-[Mordred Sanrio Ver.](http://game8.jp/archives/69028) | 89 | Sanrio Collab | No
-[Maria/Mary](http://game8.jp/archives/41041) | 89 | Christmas Event Hatcher | Yes
-[Antoinette](http://game8.jp/archives/73323) | 89 | Permanent Hatcher | Yes
-[School Festival Sanson](http://game8.jp/archives/171423) | 89 | School Event Hatcher | No
-[Koryu UA](http://game8.jp/archives/114125) | 89 | Wizard Quest | Yes
-[Enkidu](http://game8.jp/archives/85080) | 89 | Permanent Hatcher | Yes
-[Kenshin Uesugi](http://game8.jp/archives/53960) | 88 | Permanent Hatcher | Yes
-[School Festival Takenaka Hanbei](http://game8.jp/archives/175059) | 88 | School Event Ultimate Quest | No
-[Levi/Rivai Attack on Titan](http://game8.jp/archives/81657) | 88 | AoT Collab Hatcher | No
-[Matsuri Lupica (Night Ver.)](http://game8.jp/archives/166552) | 88 [90] | Matsuri Event Ultimate Quest | Yes
-[Velvet](http://game8.jp/archives/107270) | 88 | Christmas Ranking Reward | Yes
-[Mordred](http://game8.jp/archives/39799) | 88 | Permanent Hatcher | Yes
-Suleiman | [88] | Regional Festival | Yes
-[Kafka/Kafuka](http://game8.jp/archives/101944) | 88 | Ultimate Wizard Quest | Yes
-[Touka](http://game8.jp/archives/124591) | 88 | Valentine's Event Hatcher | Yes
-[Spring/Ohanami Degas](http://game8.jp/archives/139393) | 88 | Spring Event Hatcher | Yes
-[Summer Lakshmi](http://game8.jp/archives/163381) | 87 | Summer Hatcher | No
-[Hannibal](http://game8.jp/archives/147026) | 87 | Permanent Hatcher | No
-[Cronos/Kronos](http://game8.jp/archives/97781) | 87 | Permanent Hatcher | Yes
-[Lindsay] (http://game8.jp/archives/107273) | 87 | Christmas Ranking Reward | Yes
-Ying Zheng | [87] | Ultimate Wizard Quest | Yes
-[Ryuugamine Mikado DRRR Collab](http://game8.jp/archives/55816) | 87 | DRRR Collab Hatcher | No
-[Vaniller](http://game8.jp/archives/124726) | 87 | Valentine's Event Hatcher | Yes
-[Yuri Sakazaki](http://game8.jp/archives/156805) | 87 | KoF Collab Hatcher | Yes
-[Nessebar](http://game8.jp/archives/131666) | 86 | Ghost Store | No
-[Leibniz](http://game8.jp/archives/148429) | 86 | Ranking Hatcher | No
-[Bride Idunn](http://game8.jp/archives/154515) | 86 | Bridal Event Hatcher | Yes
-Cassandra | [86] | ToS Collab Hatcher | Yes
-Zheng Chenggong | [86] | Regional Festival | Yes
-[Eren Titan Attack on Titan](http://game8.jp/archives/79845) | 86 | AoT Collab Hatcher | No
-[Freyja/Freya](http://game8.jp/archives/44466) | 86 | Permanent Hatcher | Yes
-[Wigner](http://game8.jp/archives/86480) | 86 | Ranking Hatcher | Yes
-[Ryunosuke Akutagawa](http://game8.jp/archives/101916) | 85 | Permanent Hatcher | Yes
-[Andy Bogard](http://game8.jp/archives/156807) | 85 | KoF Collab Hatcher | Yes
-[Thor Halloween Ver.](http://game8.jp/archives/178815) | 85 | Halloween 2 Event Hatcher | Yes
-[Urs/Ulls/Urd](http://game8.jp/archives/116957) | 85 | Permanent Hatcher | Yes
-[Hugin and Munin](http://game8.jp/archives/44640) | 85 | Wizard Quest | Yes
-Satan (Tower of Saviors) | [84] | ToS Collab Hatcher | Yes
-[Koryu](http://game8.jp/archives/104837) | 84 | Wizard Quest | Yes
-[Fool/Feurs](http://game8.jp/archives/41581) | 84 | Permanent Hatcher | Yes
-[Sanzo Hoshi UA](http://game8.jp/archives/144168) | 84 | Regional Festival | Yes
-[Lucifigus](http://game8.jp/archives/28763) | [83] | Permanent Hatcher | Yes
-[Sanzo Hoshi](http://game8.jp/archives/103398) | 83 | Regional Festival | Yes
-[Forneus UA](http://game8.jp/archives/75760) | 83 | Permanent Hatcher | Yes
-[Akechi Kogoro](http://game8.jp/archives/168136) | 82 | Permanent Hatcher | No
-[Super Miracle Happy](http://game8.jp/archives/159645) | 82 [80] | Anniversary Quest | Yes
-[Saraswati](http://game8.jp/archives/49374) | 82 | Permanent Hatcher | Yes
-[Xena](http://game8.jp/archives/61661) | 81 | Wizard Quest | Yes
-[Soji Okita](http://game8.jp/archives/32725) | 81 | Permanent Hatcher | Yes
-[Wigner UA](http://game8.jp/archives/86493) | 81 | Ranking Hatcher | Yes
-[Matsuri Lupica (Summer Ver.)](http://game8.jp/archives/166527) | 80 [84] | Matsuri Event Quest | Yes
-[Yueying] (http://game8.jp/archives/91689) | 80 | Permanent Hatcher | Yes
-[Japanese Clothing Shoki](http://game8.jp/archives/174192) | 80 | School Event Quest | No
-[Nekomut/Bahamut](http://game8.jp/archives/133171) | 80 | BC Collab Quest | Yes
-Antoine de Pilote | [79] | Wizard Quest | Yes
-[School Festival Shoki](http://game8.jp/archives/174191) | 79 | School Event Quest | No
-[Izanagi](http://game8.jp/archives/126853) | 79 | Permanent Hatcher | Yes
-[Elysee](http://game8.jp/archives/131027) | 79 | Story Quest | No
-[Hacka Doll 3](http://game8.jp/archives/176750) | 78 | Hacka Doll Collab Quest | No
-[Snow White](http://game8.jp/archives/61641) | 78 | Permanent Hatcher | Yes
-[Jeanne](http://game8.jp/archives/39913) | 78 | Wizard Quest | Yes
-[Leviathan](http://game8.jp/archives/33744) | 78 | Permanent Hatcher | Yes
-[Colchis](http://game8.jp/archives/87832) | 77 | Wizard Quest | Yes
-[Paimon](http://game8.jp/archives/174153) | 77 | Permanent Hatcher | No
-[Osamu Dazai](http://game8.jp/archives/101939) | 77 | Wizard Quest | Yes
-[Durga](http://game8.jp/archives/93571) | 77 | Permanent Hatcher | Yes
-[Tiamat](http://game8.jp/archives/84839) | 77 | Wizard Quest | Yes
-[Yoshino](http://game8.jp/archives/139395) | 76 | Spring Event Quest | Yes
-[Brahma](http://game8.jp/archives/93564) | 76 | Permanent Hatcher | No
-[Orihara Izaya DRRR Collab](http://game8.jp/archives/54281) | 76 | DRRR Collab Quest | No
-[Kaito Hamelin Vocaloid Collab](http://game8.jp/archives/120290) | 75 | Vocaloid Collab Quest | Yes
-[Seiryu](http://game8.jp/archives/40015) | 75 | Link Hatcher | Yes
-[Takenaka Hanbei](http://game8.jp/archives/108605) | 75 | Wizard Quest | Yes
-[Lan Caihe](http://game8.jp/archives/144241) | 75 | Wizard Quest | Yes
-[Scar](http://game8.jp/archives/150120) | 74 | FMA Collab Quest | No
-[Kim Kaphwan](http://game8.jp/archives/156810) | 72 | KoF Collab Quest | Yes
-[Shiva](http://game8.jp/archives/49207) | 71 | Wizard Quest | Yes
-[Spur](http://game8.jp/archives/106904) | 69 | Christmas Event Quest | Yes
-[Morris](http://game8.jp/archives/41776) | 67 | Virus Link Hatcher | No
-[Yukine Vocaloid Collab](http://game8.jp/archives/120295) | 65 | Vocaloid Collab | Yes
-[Forneus](http://game8.jp/archives/28726) | 65 | Permanent Hatcher | Yes
-[Thetis](http://game8.jp/archives/28761) | 65 | Permanent Hatcher | Yes
-[Azlo](http://game8.jp/archives/151362) | 65 | AI Customize Unit | Yes
-[Charlie](http://game8.jp/archives/30991) | 65 | Challenge Tower | No
-[Gustav](http://game8.jp/archives/42340) | ? | Permanent Hatcher | No
+Name | Rating | Obtain Method
+:--|:--|:--
+[Euclid UA](http://game8.jp/archives/91385) | 98 | Festival Hatcher
+[Summer Faraday](http://game8.jp/archives/73572) | 98 [97] | Summer Event Hatcher
+[Celsius](http://game8.jp/archives/151382) | 97 | Festival Hatcher
+[Dirac](http://game8.jp/archives/84100) | 96 [94] | Festival Hatcher
+[Bernoulli](http://game8.jp/archives/103715) | 96 | Festival Hatcher
+[Aqua](http://game8.jp/crashfever/182709) | 96 | Konosuba Collab Hatcher
+[Boolean/Boole UA](http://game8.jp/archives/103266) | 96 | Festival Hatcher
+[Ame no Murakumo](http://game8.jp/archives/54987) | 96 [95] | Sword Ranking Ticket
+[Neumann](http://game8.jp/archives/48939) | 95 | Festival Hatcher
+[Summer Freud/Froid](http://game8.jp/archives/126449) | 95 [96] | Summer Event Hatcher
+[Murasaki Shikibu](http://game8.jp/archives/83097) | 94 | Permanent Hatcher
+[Maxwell](http://game8.jp/archives/159654) | 94 [96] | Anniversary Hatcher
+[Fibonacci UA](http://game8.jp/archives/101075) | 94 | Festival Hatcher
+Summer Confucius | [94] | Summer Event Hatcher
+Suleiman | [94] | Regional Festival
+[Hempel UA](http://game8.jp/archives/106358) | 94 | Festival Hatcher
+[Dark Catman](http://game8.jp/archives/133167) | 94 | BC Collab Hatcher
+[Lawrence](http://game8.jp/archives/41775) | 93 [91] | Permanent Hatcher
+[Summer Euler](http://game8.jp/archives/73573) | 93 | Summer Event Hatcher
+[Summer He Xiangu](http://game8.jp/crashfever/185198) | [93] | Summer Event Hatcher
+[Jung](http://game8.jp/archives/126412) | 93 | Festival Hatcher
+[Summer Schrodinger](http://game8.jp/archives/73578) | 93 [94] | Summer Event Hatcher
+[Trident](http://game8.jp/archives/74433) | 93 [91] | Spear Ranking Ticket
+[Perry](http://game8.jp/archives/178306) | 92 | Ultimate Wizard Quest
+[Odin UA](http://game8.jp/archives/121288) | 92 | Ultimate Wizard Quest
+[Andersen](http://game8.jp/archives/140985) | 92 | Ultimate Wizard Quest
+[Jeanne UA](http://game8.jp/archives/89972) | 91 | Wizard Quest
+[Summer Mobius](http://game8.jp/archives/73575) | 91 | Festival Hatcher
+[Set](http://game8.jp/archives/79331) | 91 | Ultimate Wizard Quest
+[Gangrim](http://game8.jp/archives/179741) | [91] | Regional Festival
+[Khakkhara/Sha Wujing](http://game8.jp/archives/105579) | 91 | Staff Ranking Ticket
+[Fortuna](http://game8.jp/archives/154513) | 91 | Bridal Event Hatcher
+[Mobius UA](http://game8.jp/archives/85077) | 91 | Festival Hatcher
+[Schwarzschild UA](http://game8.jp/archives/126521) | 90 | Ranking Hatcher
+[Ibarahime/Sleeping Beauty](http://game8.jp/archives/140951) | 90 | Permanent Hatcher
+[Odin](http://game8.jp/archives/46589) | 90 | Ultimate Wizard Quest
+[Chariot](http://game8.jp/archives/116188) | 90 | Ghost Store
+[Leibniz UA](http://game8.jp/archives/148433) | 89 | Ranking Hatcher
+[Mordred Sanrio Ver.](http://game8.jp/archives/69028) | 89 | Sanrio Collab
+[Maria/Mary](http://game8.jp/archives/41041) | 89 | Christmas Event Hatcher
+[Antoinette](http://game8.jp/archives/73323) | 89 [85] | Permanent Hatcher
+[School Festival Sanson](http://game8.jp/archives/171423) | 89 | School Event Hatcher
+[Koryu UA](http://game8.jp/archives/114125) | 89 | Wizard Quest
+[Enkidu](http://game8.jp/archives/85080) | 89 | Permanent Hatcher
+[Kenshin Uesugi](http://game8.jp/archives/53960) | 88 | Permanent Hatcher
+[School Festival Takenaka Hanbei](http://game8.jp/archives/175059) | 88 [93] | School Event Ultimate Quest
+[Levi/Rivai Attack on Titan](http://game8.jp/archives/81657) | 88 | AoT Collab Hatcher
+[Matsuri Lupica (Night Ver.)](http://game8.jp/archives/166552) | 88 [90] | Matsuri Event Ultimate Quest
+[Velvet](http://game8.jp/archives/107270) | 88 | Christmas Ranking Reward
+[Mordred](http://game8.jp/archives/39799) | 88 | Permanent Hatcher
+[Kafka/Kafuka](http://game8.jp/archives/101944) | 88 | Ultimate Wizard Quest
+[Touka](http://game8.jp/archives/124591) | 88 | Valentine's Event Hatcher
+[Spring/Ohanami Degas](http://game8.jp/archives/139393) | 88 | Spring Event Hatcher
+[Summer Lakshmi](http://game8.jp/archives/163381) | 87 | Summer Hatcher
+[Hannibal](http://game8.jp/archives/147026) | 87 | Permanent Hatcher
+[Cronos/Kronos](http://game8.jp/archives/97781) | 87 | Permanent Hatcher
+[Lindsay] (http://game8.jp/archives/107273) | 87 | Christmas Ranking Reward
+Ying Zheng | [87] | Ultimate Wizard Quest
+[Ryuugamine Mikado DRRR Collab](http://game8.jp/archives/55816) | 87 | DRRR Collab Hatcher
+[Vaniller](http://game8.jp/archives/124726) | 87 | Valentine's Event Hatcher
+[Yuri Sakazaki](http://game8.jp/archives/156805) | 87 | KoF Collab Hatcher
+[Nessebar](http://game8.jp/archives/131666) | 86 | Ghost Store
+[Leibniz](http://game8.jp/archives/148429) | 86 [90] | Ranking Hatcher
+[Bride Idunn](http://game8.jp/archives/154515) | 86 | Bridal Event Hatcher
+Cassandra | [86] | ToS Collab Hatcher
+Zheng Chenggong | [86] | Regional Festival
+[Eren Titan Attack on Titan](http://game8.jp/archives/79845) | 86 | AoT Collab Hatcher
+[Freyja/Freya](http://game8.jp/archives/44466) | 86 | Permanent Hatcher
+[Wigner](http://game8.jp/archives/86480) | 86 | Ranking Hatcher
+[Ryunosuke Akutagawa](http://game8.jp/archives/101916) | 85 | Permanent Hatcher
+[Andy Bogard](http://game8.jp/archives/156807) | 85 | KoF Collab Hatcher
+[Thor Halloween Ver.](http://game8.jp/archives/178815) | 85 | Halloween 2 Event Hatcher
+[Urs/Ulls/Urd](http://game8.jp/archives/116957) | 85 | Permanent Hatcher
+[Hugin and Munin](http://game8.jp/archives/44640) | 85 | Wizard Quest
+[Wiz](http://game8.jp/crashfever/182715) | 85 | Konosuba Collab Hatcher
+[Aqua Pajama Ver.](http://game8.jp/crashfever/182892) | 84 | Konosuba Collab Raid Reward
+Satan (Tower of Saviors) | [84] | ToS Collab Hatcher
+[Koryu](http://game8.jp/archives/104837) | 84 | Wizard Quest
+[Fool/Feurs](http://game8.jp/archives/41581) | 84 | Permanent Hatcher
+[Sanzo Hoshi UA](http://game8.jp/archives/144168) | 84 | Regional Festival
+[Lucifigus](http://game8.jp/archives/28763) | [83] | Permanent Hatcher
+[Sanzo Hoshi](http://game8.jp/archives/103398) | 83 | Regional Festival
+[Forneus UA](http://game8.jp/archives/75760) | 83 | Permanent Hatcher
+[Akechi Kogoro](http://game8.jp/archives/168136) | 82 | Permanent Hatcher
+[Super Miracle Happy](http://game8.jp/archives/159645) | 82 [80] | Anniversary Quest
+[Saraswati](http://game8.jp/archives/49374) | 82 | Permanent Hatcher
+[Xena](http://game8.jp/archives/61661) | 81 | Wizard Quest
+[Soji Okita](http://game8.jp/archives/32725) | 81 | Permanent Hatcher
+[Wigner UA](http://game8.jp/archives/86493) | 81 | Ranking Hatcher
+[Matsuri Lupica (Summer Ver.)](http://game8.jp/archives/166527) | 80 [84] | Matsuri Event Quest
+[Yueying] (http://game8.jp/archives/91689) | 80 | Permanent Hatcher
+[Japanese Clothing Shoki](http://game8.jp/archives/174192) | 80 | School Event Quest
+[Nekomut/Bahamut](http://game8.jp/archives/133171) | 80 | BC Collab Quest
+Antoine de Pilote | [79] | Wizard Quest
+[School Festival Shoki](http://game8.jp/archives/174191) | 79 | School Event Quest
+[Izanagi](http://game8.jp/archives/126853) | 79 | Permanent Hatcher
+[Elysee](http://game8.jp/archives/131027) | 79 | Story Quest
+[Hacka Doll 3](http://game8.jp/archives/176750) | 78 | Hacka Doll Collab Quest
+[Snow White](http://game8.jp/archives/61641) | 78 | Permanent Hatcher
+[Jeanne](http://game8.jp/archives/39913) | 78 | Wizard Quest
+[Leviathan](http://game8.jp/archives/33744) | 78 | Permanent Hatcher
+[Colchis](http://game8.jp/archives/87832) | 77 | Wizard Quest
+[Paimon](http://game8.jp/archives/174153) | 77 | Permanent Hatcher
+[Otohime](http://game8.jp/crashfever/35491) | 77 | Material Quest
+[Osamu Dazai](http://game8.jp/archives/101939) | 77 | Wizard Quest
+[Durga](http://game8.jp/archives/93571) | 77 | Permanent Hatcher
+[Tiamat](http://game8.jp/archives/84839) | 77 | Wizard Quest
+[Yoshino](http://game8.jp/archives/139395) | 76 | Spring Event Quest
+[Brahma](http://game8.jp/archives/93564) | 76 | Permanent Hatcher
+[Orihara Izaya DRRR Collab](http://game8.jp/archives/54281) | 76 | DRRR Collab Quest
+[Kaito Hamelin Vocaloid Collab](http://game8.jp/archives/120290) | 75 | Vocaloid Collab Quest
+[Seiryu](http://game8.jp/archives/40015) | 75 | Link Hatcher
+[Takenaka Hanbei](http://game8.jp/archives/108605) | 75 | Wizard Quest
+[Lan Caihe](http://game8.jp/archives/144241) | 75 | Wizard Quest
+[Cabir](http://game8.jp/crashfever/184134) | 74 | 9M Downloads Quest
+[Scar](http://game8.jp/archives/150120) | 74 | FMA Collab Quest
+[Kim Kaphwan](http://game8.jp/archives/156810) | 72 | KoF Collab Quest
+[Shiva](http://game8.jp/archives/49207) | 71 | Wizard Quest
+[Spur](http://game8.jp/archives/106904) | 69 | Christmas Event Quest
+[Morris](http://game8.jp/archives/41776) | 67 | Virus Link Hatcher
+[Yukine Vocaloid Collab](http://game8.jp/archives/120295) | 65 | Vocaloid Collab
+[Forneus](http://game8.jp/archives/28726) | 65 | Permanent Hatcher
+[Thetis](http://game8.jp/archives/28761) | 65 | Permanent Hatcher
+[Azlo](http://game8.jp/archives/151362) | 65 | AI Customize Unit
+[Charlie](http://game8.jp/archives/30991) | 65 | Challenge Tower
+[Gustav](http://game8.jp/archives/42340) | ? | Permanent Hatcher
 
 #Green Units
 
-Name | Rating | Obtain Method | 6* in GL?
-:--|:--|:--|:--
-[Turing UA](http://game8.jp/archives/93205) | 99 | Festival Hatcher | Yes
-[Galois](http://game8.jp/archives/96289) | 98 [97] | Festival Hatcher | Yes
-[Halley](http://game8.jp/archives/116183) | 96 [97] | Festival Hatcher | Yes
-[Hatsune Miku V4X](http://game8.jp/archives/119921) | 96 | Vocaloid Collab Hatcher | Yes
-[Mobius Halloween Ver.](http://game8.jp/archives/178806) | 95 | Halloween 2 Event Hatcher | Yes
-[Summer Hempel](http://game8.jp/archives/163383) | 95 | Summer Event Hatcher | Yes
-[Loki](http://game8.jp/archives/116947) | 95 | Ultimate Wizard Quest | Yes
-[Pareto UA](http://game8.jp/archives/144167) | 95 | Festival Hatcher | Yes
-[Heisenberg UA](http://game8.jp/archives/85078) | 95 | Festival Hatcher | Yes
-[Guan Yu](http://game8.jp/archives/152345) | 95 | Regional Festival | Yes
-[Pauli](http://game8.jp/archives/128176) | 94 | Festival Hatcher | No
-[Dalton](http://game8.jp/archives/170300) | 94 | Festival Hatcher | No
-[Bonanza](http://game8.jp/archives/96786) | 94 | 1st Queen's Tower | Yes
-[Cauchy Halloween Ver.](http://game8.jp/archives/178805) | 94 | Halloween 2 Event Hatcher | Yes
-[Euler UA](http://game8.jp/archives/78852) | 94 | Festival Hatcher | Yes
-[Masamune](http://game8.jp/archives/54986) | 94 | Sword Ranking Ticket | Yes
-[Lakshmi](http://game8.jp/archives/93569) | 94 | Permanent Hatcher | Yes
-[Gauss](http://game8.jp/archives/161939) | 93 [94] | Anniversary Hatcher | Yes
-[Lu Bu](http://game8.jp/archives/91606) | 93 | Ultimate Wizard Quest | Yes
-Rakshasa | [93] | ToS Collab Hatcher | Yes
-[Laevateinn](http://game8.jp/archives/168991) | 93 | Sword Ver. 2 Ranking Ticket | No
-[Poisson UA](http://game8.jp/archives/109111) | 93 | Festival Hatcher | Yes
-Tang Sanzang | [92] | ToS Collab Hatcher | Yes
-Leif | [92] | Regional Festival | Yes
-[Plateau](http://game8.jp/archives/142161) | 92 | Festival Hatcher | No
-[Harvest](http://game8.jp/archives/95128) | 92 | Halloween Event Quest | Yes
-[Lovers](http://game8.jp/archives/124489) | 92 | Ghost Store | No
-[Degas](http://game8.jp/archives/87929) | 92 | Permanent Hatcher | Yes
-[Gae Bolg](http://game8.jp/archives/74432) | 92 | Spear Ranking Ticket | Yes
-[Descartes UA](http://game8.jp/archives/168987) | 91 | Ranking Hatcher | No
-[Lucifer](http://game8.jp/archives/61092) | 91 | Ultimate Wizard Quest | Yes
-[Hatsune Miku Append UA](http://game8.jp/archives/120238) | 91 | Vocaloid Collab Hatcher | Yes
-[Hikoboshi](http://game8.jp/archives/73591) | 91 | Tanabata Event Quest | Yes
-Summer Cao Cao | [91] | Summer Event Ultimate Quest | Yes
-[Lupin](http://game8.jp/archives/168171) | 90 | Ultimate Wizard Quest | No
-[De Morgan UA](http://game8.jp/archives/81711) | 90 | Ranking Hatcher | Yes
-[Summer Morse](http://game8.jp/archives/163382) | 90 | Summer Event Hatcher | Yes
-[Satan](http://game8.jp/archives/174151) | 90 | Permanent Hatcher | No
-[Izun/Idunn](http://game8.jp/archives/116955) | 90 | Permanent Hatcher | Yes
-[Hatsune Miku Append](http://game8.jp/archives/44193) | 90 | Vocaloid Collab Hatcher | Yes
-[Rapunzel Halloween Ver.](http://game8.jp/archives/95308) | 90 | Halloween Event Hatcher | Yes
-[Magallanica/Magellanica](http://game8.jp/archives/116189) | 90 | Ghost Store | No
-[Summer Kondo](http://game8.jp/archives/163379) | 89 | Summer Event Hatcher | No
-[Matsuri Date Masamune](http://game8.jp/archives/166538) | 89 | Matsuri Event Hatcher | Yes
-[Ryo Sakazaki](http://game8.jp/archives/156804) | 89 | KoF Collab Hatcher | Yes
-[Raven](http://game8.jp/archives/48585) | 89 | White Day Event Hatcher | Yes
-[Carmilla](http://game8.jp/archives/161987) | 89 [83] | Regional Festival | Yes
-[Caesar](http://game8.jp/archives/147025) | 89 | Permanent Hatcher | No
-[West Queen/Sei Ou Nyan Nyan! UA](http://game8.jp/archives/144169) | 88 | Regional Festival | Yes
-[Bride Amaterasu](http://game8.jp/archives/154518) | 88 [85] | Bridal Event Hatcher | Yes
-[Yamata no Orochi](http://game8.jp/archives/33745) | 88 | Permanent Hatcher | Yes
-[Qasaran Pasarang/Unknown Cat](http://game8.jp/archives/133166)  | 88 | BC Collab Hatcher | Yes
-[Lemaitre UA](http://game8.jp/archives/118783) | 87 | Ranking Hatcher | Yes
-[Mashiro](http://game8.jp/archives/131385) | 87 | White Day Event Hatcher | Yes
-[Hatsune Miku](http://game8.jp/archives/43711) | 87 | Vocaloid Collab Hatcher | Yes
-[Lancelot](http://game8.jp/archives/39800) | 87 | Permanent Hatcher | Yes
-[Chizuru Kagura](http://game8.jp/archives/156808) | 87 | KoF Collab Hatcher | Yes
-[Tolstoy](http://game8.jp/archives/101915) | 87 | Permanent Hatcher | Yes
-[Shoki](http://game8.jp/archives/47884) | 86 | Wizard Quest | Yes
-[Fool/Feurs Halloween Ver.](http://game8.jp/archives/178807) | 86 | Halloween 2 Event Hatcher | Yes
-[Skulls/Skulz/Skullz](http://game8.jp/archives/144243) | 86 | Event Wizard Quest | Yes
-[Inaba](http://game8.jp/archives/51845) | 86 | Permanent Hatcher | Yes
-[Lemaitre](http://game8.jp/archives/118779) | 85 | Ranking Hatcher | Yes
-Han Xiangzi | [85] | Regional Festival | Yes
-[Matsuri Metatron](http://game8.jp/archives/166539) | 85 | Matsuri Event Hatcher | Yes
-[Ushiwakamaru](http://game8.jp/archives/83096) | 85 | Permanent Hatcher | Yes
-[Hamelin](http://game8.jp/archives/42334) | 84 | Permanent Hatcher | Yes
-[Idol Sanada Yukimura](http://game8.jp/archives/171418) | 84 | School Event Quest | No
-[De Morgan](http://game8.jp/archives/81709) | 84 | Ranking Hatcher | Yes
-[Spring/Ohanami Soji Okita](http://game8.jp/archives/139397) | 84 | Spring Event Hatcher | Yes
-[Summer Freyr (Tanned)](http://game8.jp/archives/163466) | 83 | Summer Event Quest | Yes
-[Sinbad](http://game8.jp/archives/140948) | 83 | Permanent Hatcher | No
-[Takasugi Shinsaku](http://game8.jp/archives/178292) | 83 | Permanent Hatcher | No
-[Wakahirume](http://game8.jp/archives/126856) | 83 | Wizard Quest | Yes
-[Bride Bastet](http://game8.jp/archives/154517) | 83 | Bridal Event Hatcher | Yes
-[Hattori Hanzo](http://game8.jp/archives/142592) | 83 | Wizard Quest | No
-[West Queen/Sei Ou Nyan Nyan!](http://game8.jp/archives/114133) | 83 | Regional Festival | Yes
-[Ishtar](http://game8.jp/archives/85082) | 83 | Permanent Hatcher | Yes
-[Hel Kitten Ver.](http://game8.jp/archives/178810) | 82 | Halloween 2 Event Quest | Yes
-[Hel Maid Ver.](http://game8.jp/archives/178809) | 82 | Halloween 2 Event Quest | Yes
-[Grimm UA](http://game8.jp/archives/142277) | 82 | Wizard Quest | No
-[Zenobia](http://game8.jp/archives/147032) | 82 | Wizard Quest | No
-[Osiris](http://game8.jp/archives/79332) | 81 | Wizard Quest | Yes
-[Azazel UA](http://game8.jp/archives/89967) | 81 | Wizard Quest | Yes
-[Atlas](http://game8.jp/archives/86347) | 81 | Wizard Quest | No
-[Hel Halloween Ver.](http://game8.jp/archives/178808) | 80 | Halloween 2 Event Quest | Yes
-[Delphyne](http://game8.jp/archives/97821) | 80 | Wizard Quest | Yes
-[Christmas Ose](http://game8.jp/archives/41043) | 80 | Christmas Event Hatcher | Yes
-[School Festival Thumbelina](http://game8.jp/archives/174189) | 80 | School Event Hatcher | No
-[Apple Cat/Face Cat](http://game8.jp/archives/133173) | 80 | BC Collab | Yes
-[Freyja Valentines Ver.](http://game8.jp/archives/124743) | 80 | Valentine's Event Hatcher | Yes
-[Azazel Sanrio Collab Ver.](http://game8.jp/archives/67771) | 80 | Sanrio Collab | No
-[Ose UA](http://game8.jp/archives/75763) | 79 | Permanent Hatcher | Yes
-[M. Dragon](http://game8.jp/archives/161942) | 78 | Wizard Quest | No
-[Fuuga/Fuga](http://game8.jp/archives/47849) | 78 | Permanent Hatcher | Yes
-[Isis](http://game8.jp/archives/79524) | 77 | Permanent Hatcher | Yes
-[Toshizo Hijikata](http://game8.jp/archives/32724) | 77 | Permanent Hatcher | Yes
-[School Festival Sanada Yukimura](http://game8.jp/archives/171419) | 77 | School Event Quest | No
-[Baal](http://game8.jp/archives/59242) | 77 | Permanent Hatcher | Yes
-[Mochizuki Chiyodome](http://game8.jp/archives/108591) | 77 [81] | Permanent Hatcher | Yes
-[Miku Shikibu/Mikubu](http://game8.jp/archives/120291) | 76 | Vocaloid Collab Quest | Yes
-[Yatagarasu](http://game8.jp/archives/37489) | 76 | Permanent Hatcher | Yes
-[Grimm](http://game8.jp/archives/42889) | 76 | Wizard Quest | Yes
-[Hermes](http://game8.jp/archives/71121) | 76 | Permanent Hatcher | Yes
-[Oz UA](http://game8.jp/archives/100450) | 75 | Wizard Quest | No
-[Happy](http://game8.jp/archives/29971) | 75 [77] | Virus Link Hatcher | Yes
-Nian Beast | [74] | New Year's Quest | Yes
-[Ox-Head and Horse-Face/Abo Rasetsu](http://game8.jp/archives/114436) | 74 | Wizard Quest | Yes
-[Pati](http://game8.jp/archives/124588) | 74 [84] | Valentine's Event Quest | Yes
-[Snow Miku 2017](http://game8.jp/archives/120293) | 73 | Vocaloid Collab | Yes
-Circe | [73] | ToS Collab Quest | Yes
-[Fay](http://game8.jp/archives/41583) | 73 | Permanent Hatcher | Yes
-[Gareth](http://game8.jp/archives/51777) | 73 | Wizard Quest | Yes
-[Zhao Yun](http://game8.jp/archives/91687) | 73 | Permanent Hatcher | Yes
-[Aphrodite](http://game8.jp/archives/28751) | 73 | Permanent Hatcher | Yes
-[Naga](http://game8.jp/archives/144242) | 71 | Wizard Quest | Yes
-[Oz](http://game8.jp/archives/40995) | 71 | Wizard Quest | Yes
-[Athena Asamiya](http://game8.jp/archives/156820) | 70 | KoF Collab Ticket Hatcher | Yes
-[Dong-Tu/Dong Zhuo](http://game8.jp/archives/91604) | 69 | Wizard Quest | Yes
-[Michelangelo](http://game8.jp/archives/85615) | 69 | Wizard Quest | No
-[Genbu](http://game8.jp/archives/30873) | 68 | Link Hatcher | Yes
-[Beelzebub](http://game8.jp/archives/60517) | 67 | Wizard Quest | Yes
-[Azazel](http://game8.jp/archives/34192) | 65 | Wizard Quest | Yes
-[Ose](http://game8.jp/archives/28744) | 65 | Permanent Hatcher | Yes
-[Verde](http://game8.jp/archives/151354) | 65 | AI Customize Unit | Yes
-[Peter Pan](http://game8.jp/archives/35485) | ? | Permanent Hatcher | No
-[Summer Freyr](http://game8.jp/archives/163385) | ? | Summer Event Quest | Yes
-[Pinocchio](http://game8.jp/archives/61644) | ? | Permanent Hatcher | No
+Name | Rating | Obtain Method
+:--|:--|:--
+[Turing UA](http://game8.jp/archives/93205) | 99 | Festival Hatcher
+[Galois](http://game8.jp/archives/96289) | 98 [97] | Festival Hatcher
+[Halley](http://game8.jp/archives/116183) | 96 [97] | Festival Hatcher
+Necronomicon | [97] | Cthulhu Event Hatcher
+[Hatsune Miku V4X](http://game8.jp/archives/119921) | 96 [95] | Vocaloid Collab Hatcher
+[Mobius Halloween Ver.](http://game8.jp/archives/178806) | 95 | Halloween 2 Event Hatcher
+[Summer Hempel](http://game8.jp/archives/163383) | 95 | Summer Event Hatcher
+[Loki](http://game8.jp/archives/116947) | 95 | Ultimate Wizard Quest
+[Pareto UA](http://game8.jp/archives/144167) | 95 | Festival Hatcher
+[Heisenberg UA](http://game8.jp/archives/85078) | 95 [93] | Festival Hatcher
+[Guan Yu](http://game8.jp/archives/152345) | 95 | Regional Festival
+[Pauli](http://game8.jp/archives/128176) | 94 | Festival Hatcher
+[Dalton](http://game8.jp/archives/170300) | 94 | Festival Hatcher
+[Bonanza](http://game8.jp/archives/96786) | 94 | 1st Queen's Tower
+[Cauchy Halloween Ver.](http://game8.jp/archives/178805) | 94 | Halloween 2 Event Hatcher
+[Euler UA](http://game8.jp/archives/78852) | 94 | Festival Hatcher
+[Masamune](http://game8.jp/archives/54986) | 94 [92] | Sword Ranking Ticket
+[Lakshmi](http://game8.jp/archives/93569) | 94 [90] | Permanent Hatcher
+[Gauss](http://game8.jp/archives/161939) | 93 [95] | Anniversary Hatcher
+[Yunyun](http://game8.jp/crashfever/182711) | 93 | Konosuba Collab Hatcher
+[Lu Bu](http://game8.jp/archives/91606) | 93 | Ultimate Wizard Quest
+Rakshasa | [93] | ToS Collab Hatcher
+Leif | [93] | Regional Festival
+[Laevateinn](http://game8.jp/archives/168991) | 93 | Sword Ver. 2 Ranking Ticket
+[Poisson UA](http://game8.jp/archives/109111) | 93 | Festival Hatcher
+Tang Sanzang | [92] | ToS Collab Hatcher
+[Plateau](http://game8.jp/archives/142161) | 92 | Festival Hatcher
+[Harvest](http://game8.jp/archives/95128) | 92 | Halloween Event Quest
+[Lovers](http://game8.jp/archives/124489) | 92 [93] | Ghost Store
+[Degas](http://game8.jp/archives/87929) | 92 | Permanent Hatcher
+[Gae Bolg](http://game8.jp/archives/74432) | 92 [89] | Spear Ranking Ticket
+[Descartes UA](http://game8.jp/archives/168987) | 91 | Ranking Hatcher
+[Lucifer](http://game8.jp/archives/61092) | 91 | Ultimate Wizard Quest
+[Hatsune Miku Append UA](http://game8.jp/archives/120238) | 91 | Vocaloid Collab Hatcher
+[Hikoboshi](http://game8.jp/archives/73591) | 91 | Tanabata Event Quest
+[Summer Cao Cao](http://game8.jp/crashfever/185197) | [91] | Summer Event Ultimate Quest
+[Lupin](http://game8.jp/archives/168171) | 90 | Ultimate Wizard Quest
+[De Morgan UA](http://game8.jp/archives/81711) | 90 | Ranking Hatcher
+[Summer Morse](http://game8.jp/archives/163382) | 90 [92] | Summer Event Hatcher
+[Satan](http://game8.jp/archives/174151) | 90 | Permanent Hatcher
+[Izun/Idunn](http://game8.jp/archives/116955) | 90 | Permanent Hatcher
+[Hatsune Miku Append](http://game8.jp/archives/44193) | 90 | Vocaloid Collab Hatcher
+[Rapunzel Halloween Ver.](http://game8.jp/archives/95308) | 90 | Halloween Event Hatcher
+[Magallanica/Magellanica](http://game8.jp/archives/116189) | 90 | Ghost Store
+[Summer Kondo](http://game8.jp/archives/163379) | 89 | Summer Event Hatcher
+[Matsuri Date Masamune](http://game8.jp/archives/166538) | 89 | Matsuri Event Hatcher
+[Ryo Sakazaki](http://game8.jp/archives/156804) | 89 | KoF Collab Hatcher
+[Raven](http://game8.jp/archives/48585) | 89 | White Day Event Hatcher
+[Carmilla](http://game8.jp/archives/161987) | 89 [85] | Regional Festival
+[Dullahan](http://game8.jp/crashfever/182713) | 89 | Konosuba Collab Quest
+[Caesar](http://game8.jp/archives/147025) | 89 | Permanent Hatcher
+[West Queen/Sei Ou Nyan Nyan! UA](http://game8.jp/archives/144169) | 88 | Regional Festival
+[Bride Amaterasu](http://game8.jp/archives/154518) | 88 [85] | Bridal Event Hatcher
+[Yamata no Orochi](http://game8.jp/archives/33745) | 88 | Permanent Hatcher
+[Qasaran Pasarang/Unknown Cat](http://game8.jp/archives/133166)  | 88 | BC Collab Hatcher
+[Lemaitre UA](http://game8.jp/archives/118783) | 87 | Ranking Hatcher
+[Mashiro](http://game8.jp/archives/131385) | 87 | White Day Event Hatcher
+[Hatsune Miku](http://game8.jp/archives/43711) | 87 | Vocaloid Collab Hatcher
+[Lancelot](http://game8.jp/archives/39800) | 87 | Permanent Hatcher
+[Chizuru Kagura](http://game8.jp/archives/156808) | 87 | KoF Collab Hatcher
+[Tolstoy](http://game8.jp/archives/101915) | 87 | Permanent Hatcher
+[Shoki](http://game8.jp/archives/47884) | 86 | Wizard Quest
+[Fool/Feurs Halloween Ver.](http://game8.jp/archives/178807) | 86 | Halloween 2 Event Hatcher
+[Skulls/Skulz/Skullz](http://game8.jp/archives/144243) | 86 | Event Wizard Quest
+[Inaba](http://game8.jp/archives/51845) | 86 | Permanent Hatcher
+[Lemaitre](http://game8.jp/archives/118779) | 85 | Ranking Hatcher
+Han Xiangzi | [85] | Regional Festival
+[Eris](http://game8.jp/crashfever/182890) | 85 | Konosuba Collab Raid Reward
+[Kazuma](http://game8.jp/crashfever/182712) | 85 | Konosuba Collab Ticket Hatcher
+[Matsuri Metatron](http://game8.jp/archives/166539) | 85 | Matsuri Event Hatcher
+[Ushiwakamaru](http://game8.jp/archives/83096) | 85 | Permanent Hatcher
+[Hamelin](http://game8.jp/archives/42334) | 84 | Permanent Hatcher
+[Idol Sanada Yukimura](http://game8.jp/archives/171418) | 84 | School Event Quest
+[De Morgan](http://game8.jp/archives/81709) | 84 | Ranking Hatcher
+[Spring/Ohanami Soji Okita](http://game8.jp/archives/139397) | 84 | Spring Event Hatcher
+[Summer Freyr (Tanned)](http://game8.jp/archives/163466) | 83 | Summer Event Quest
+[Sinbad](http://game8.jp/archives/140948) | 83 | Permanent Hatcher
+[Takasugi Shinsaku](http://game8.jp/archives/178292) | 83 | Permanent Hatcher
+[Wakahirume](http://game8.jp/archives/126856) | 83 | Wizard Quest
+[Bride Bastet](http://game8.jp/archives/154517) | 83 | Bridal Event Hatcher
+[Hattori Hanzo](http://game8.jp/archives/142592) | 83 | Wizard Quest
+[West Queen/Sei Ou Nyan Nyan!](http://game8.jp/archives/114133) | 83 | Regional Festival
+[Ishtar](http://game8.jp/archives/85082) | 83 | Permanent Hatcher
+[Hel Kitten Ver.](http://game8.jp/archives/178810) | 82 | Halloween 2 Event Quest
+[Hel Maid Ver.](http://game8.jp/archives/178809) | 82 | Halloween 2 Event Quest
+[Grimm UA](http://game8.jp/archives/142277) | 82 | Wizard Quest
+[Zenobia](http://game8.jp/archives/147032) | 82 | Wizard Quest
+[Osiris](http://game8.jp/archives/79332) | 81 | Wizard Quest
+[Azazel UA](http://game8.jp/archives/89967) | 81 | Wizard Quest
+[Atlas](http://game8.jp/archives/86347) | 81 | Wizard Quest
+[Hel Halloween Ver.](http://game8.jp/archives/178808) | 80 | Halloween 2 Event Quest
+[Delphyne](http://game8.jp/archives/97821) | 80 | Wizard Quest
+[Christmas Ose](http://game8.jp/archives/41043) | 80 | Christmas Event Hatcher
+[School Festival Thumbelina](http://game8.jp/archives/174189) | 80 | School Event Hatcher
+[Apple Cat/Face Cat](http://game8.jp/archives/133173) | 80 | BC Collab
+[Freyja Valentines Ver.](http://game8.jp/archives/124743) | 80 | Valentine's Event Hatcher
+[Azazel Sanrio Collab Ver.](http://game8.jp/archives/67771) | 80 | Sanrio Collab
+[Ose UA](http://game8.jp/archives/75763) | 79 | Permanent Hatcher
+[M. Dragon](http://game8.jp/archives/161942) | 78 | Wizard Quest
+[Fuuga/Fuga](http://game8.jp/archives/47849) | 78 | Permanent Hatcher
+[Isis](http://game8.jp/archives/79524) | 77 | Permanent Hatcher
+[Toshizo Hijikata](http://game8.jp/archives/32724) | 77 | Permanent Hatcher
+[School Festival Sanada Yukimura](http://game8.jp/archives/171419) | 77 | School Event Quest
+[Baal](http://game8.jp/archives/59242) | 77 | Permanent Hatcher
+[Mochizuki Chiyodome](http://game8.jp/archives/108591) | 77 [81] | Permanent Hatcher
+[Miku Shikibu/Mikubu](http://game8.jp/archives/120291) | 76 | Vocaloid Collab Quest
+[Yatagarasu](http://game8.jp/archives/37489) | 76 | Permanent Hatcher
+[Grimm](http://game8.jp/archives/42889) | 76 | Wizard Quest
+[Hermes](http://game8.jp/archives/71121) | 76 | Permanent Hatcher
+[Oz UA](http://game8.jp/archives/100450) | 75 | Wizard Quest
+[Happy](http://game8.jp/archives/29971) | 75 [77] | Virus Link Hatcher
+Nian Beast | [74] | New Year's Quest
+[Ox-Head and Horse-Face/Abo Rasetsu](http://game8.jp/archives/114436) | 74 | Wizard Quest
+[Pati](http://game8.jp/archives/124588) | 74 [84] | Valentine's Event Quest
+[Snow Miku 2017](http://game8.jp/archives/120293) | 73 | Vocaloid Collab
+Circe | [73] | ToS Collab Quest
+[Fay](http://game8.jp/archives/41583) | 73 | Permanent Hatcher
+[Gareth](http://game8.jp/archives/51777) | 73 | Wizard Quest
+[Zhao Yun](http://game8.jp/archives/91687) | 73 | Permanent Hatcher
+[Aphrodite](http://game8.jp/archives/28751) | 73 | Permanent Hatcher
+[Kaede](http://game8.jp/crashfever/39991) | 72 | Material Quest
+[Naga](http://game8.jp/archives/144242) | 71 | Wizard Quest
+[Oz](http://game8.jp/archives/40995) | 71 | Wizard Quest
+[Athena Asamiya](http://game8.jp/archives/156820) | 70 | KoF Collab Ticket Hatcher
+[Dong-Tu/Dong Zhuo](http://game8.jp/archives/91604) | 69 | Wizard Quest
+[Michelangelo](http://game8.jp/archives/85615) | 69 | Wizard Quest
+[Genbu](http://game8.jp/archives/30873) | 68 | Link Hatcher
+[Beelzebub](http://game8.jp/archives/60517) | 67 | Wizard Quest
+[Azazel](http://game8.jp/archives/34192) | 65 | Wizard Quest
+[Ose](http://game8.jp/archives/28744) | 65 | Permanent Hatcher
+[Verde](http://game8.jp/archives/151354) | 65 | AI Customize Unit
+[Peter Pan](http://game8.jp/archives/35485) | ? | Permanent Hatcher
+[Summer Freyr](http://game8.jp/archives/163385) | ? | Summer Event Quest
+[Pinocchio](http://game8.jp/archives/61644) | ? | Permanent Hatcher
+Shoggoth | ? | Cthulhu Event Reward
+[Janghwa](http://game8.jp/crashfever/185756) | ? | Regional Festival
 
 #Yellow Units
 
-Name | Rating | Obtain Method | 6* in GL?
-:--|:--|:--|:--
-[Hubble UA](http://game8.jp/archives/109104) | 98 | Festival Hatcher | Yes
-[Faraday UA](http://game8.jp/archives/91383) | 98 [97] | Festival Hatcher | Yes
-[Coulomb](http://game8.jp/archives/173447) | 97 | Festival Hatcher | No
-[Kepler](http://game8.jp/archives/100890) | 96 | Festival Hatcher | Yes
-[Laplace](http://game8.jp/archives/120674) | 96 | Festival Hatcher | Yes
-[Mephisto](http://game8.jp/archives/173701) | 95 | Ultimate Wizard Quest | No
-[Mersenne](http://game8.jp/archives/137271) | 94 | Festival Hatcher | No
-[Fermat UA](http://game8.jp/archives/103265) | 94 | Festival Hatcher | No
-Confucius | [95] | Regional Festival | Yes
-[Gungnir](http://game8.jp/archives/74434) | 93 | Spear Ranking Ticket | Yes
-[Caduceus](http://game8.jp/archives/105580) | 93 [94] | Staff Ranking Ticket | Yes
-[Kronecker UA](http://game8.jp/archives/109105) | 93 | Festival Hatcher | Yes
-[Fourier](http://game8.jp/archives/53007) | 92 | Festival Hatcher | Yes
-[Hera](http://game8.jp/archives/97823) | 92 | Ultimate Wizard Quest | Yes
-[Magician](http://game8.jp/archives/101074) | 92 | Ghost Store | Yes
-[Sanada Yukimura](http://game8.jp/archives/108589) | 92 | Permanent Hatcher | Yes
-[Balmung](http://game8.jp/archives/168993) | 91 | Sword Ver. 2 Ranking Ticket | No
-[Matsuri Artemis](http://game8.jp/archives/166532) | 91 | Matsuri Event Hatcher | Yes
-[Senko](http://game8.jp/archives/139396) | 91 | Spring Event Hatcher | Yes
-[Bridegroom Zhuge](http://game8.jp/archives/154514) | 91 | Bridal Event Hatcher | Yes
-[Rapunzel](http://game8.jp/archives/42336) | 91 | Permanent Hatcher | Yes
-[D'Artagnan](http://game8.jp/archives/140952) | 91 | Permanent Hatcher | No
-[Baldr](http://game8.jp/archives/44468) | 91 | Permanent Hatcher | Yes
-[Zeus](http://game8.jp/archives/71148) | 91 | Ultimate Wizard Quest | Yes
-[Herschel UA](http://game8.jp/archives/85079) | 91 | Festival Hatcher | No
-[School Festival Kushinadahime](http://game8.jp/archives/174188) | 90 | School Event Hatcher | No
-[Loki Guard Ver.](http://game8.jp/archives/179246) | 90 | Halloween 2 Event Ultimate Quest | Yes
-[Terry Bogard](http://game8.jp/archives/156806) | 90 | KoF Collab Hatcher | Yes
-[Metatron Emo Valentines Ver.](http://game8.jp/archives/124590) | 90 | Valentine's Event Hatcher | Yes
-[Matsuri Enkidu](http://game8.jp/archives/166531) | 89 | Matsuri Event Hatcher | Yes
-[Konokana Sakuya](http://game8.jp/archives/139390) | 89 | Spring Event Hatcher | Yes
-[Sakamoto Ryoma](http://game8.jp/archives/178293) | 89 | Permanent Hatcher | No
-[Susanoo](http://game8.jp/archives/131915) | 89 | Ultimate Wizard Quest | Yes
-[Cao Cao](http://game8.jp/archives/151390) | 89 [94] | Ultimate Wizard Quest | Yes
-[Alfheimr](http://game8.jp/archives/43296) | 89 | Permanent Hatcher | Yes
-[Date Masamune](http://game8.jp/archives/53962) | 89 | Permanent Hatcher | Yes
-[Alphonse](http://game8.jp/archives/150116) | 88 | FMA Collab Hatcher | No
-[Artemis](http://game8.jp/archives/97782) | 88 | Permanent Hatcher | Yes
-[Aladdin](http://game8.jp/archives/61640) | 88 | Permanent Hatcher | Yes
-[Mazu](http://game8.jp/archives/103397) | 88 | Permanent Hatcher | Yes
-[Sanson](http://game8.jp/archives/73324) | 88 | Permanent Hatcher | Yes
-[Hilbert UA](http://game8.jp/archives/105577) | 88 | Ranking Hatcher | Yes
-[Marduk](http://game8.jp/archives/85081) | 88 | Permanent Hatcher | Yes
-[Loki Halloween Ver.](http://game8.jp/archives/179248) | 88 | Halloween 2 Event Ultimate Quest | Yes
-[Fresnel UA](http://game8.jp/archives/124539) | 88 | Ranking Hatcher | Yes
-[Lemuria](http://game8.jp/archives/124490) | 88 | Ghost Store | No 
-[Thunder God Sandia 'Beta'/Thundia](http://game8.jp/archives/133169) | 88 | BC Collab Hatcher | Yes
-[Rupika/Lupica](http://game8.jp/archives/87713) | 87 | Wizard Quest | Yes
-[He Xiangu](http://game8.jp/archives/146262) | 87 | Regional Festival | Yes
-Wings of Chaos Lucifer | [87] | ToS Collab Ultimate Quest | Yes
-[Spring/Ohanami Ushiwakamaru](http://game8.jp/archives/139391) | 87 | Spring Event Hatcher | Yes
-[Kagamine Rin V4X Vocaloid Collab](http://game8.jp/archives/119980) | 87 | Vocaloid Collab Hatcher | Yes
-[Matsuri Yatagarasu](http://game8.jp/archives/166541) | 87 | Matsuri Event Hatcher | Yes
-[Kirin/Qilin UA](http://game8.jp/archives/93297) | 87 [89] | Ultimate Wizard Quest | Yes
-[Sei Shonagon](http://game8.jp/archives/83098) | 87 | Permanent Hatcher | Yes
-[Fresnel](http://game8.jp/archives/74428) | 87 | Ranking Hatcher | Yes
-[Benimaru Nikaido](http://game8.jp/archives/156803) | 86 | KoF Collab Hatcher | Yes
-[Edward](http://game8.jp/archives/150117) | 86 | FMA Collab Hatcher | No
-Zhang Guolao | [86] | Wizard Quest | Yes
-[Kagamine Len V4X](http://game8.jp/archives/119981) | 86 | Vocaloid Collab Hatcher | Yes
-[Miku Lucifer](http://game8.jp/archives/120294) | 86 | Vocaloid Collab Ultimate Quest | Yes
-[Astaroth](http://game8.jp/archives/37493) | 86 | Permanent Hatcher | Yes
-[Natsume Soseki](http://game8.jp/archives/101917) | 86 | Permanent Hatcher | Yes
-[Nicola/Nicolas](http://game8.jp/archives/107287) | 86 | Christmas Ranking Hatcher | Yes
-[Hilbert](http://game8.jp/archives/105576) | 86 | Ranking Hatcher | Yes
-[Napoleon Halloween Ver.](http://game8.jp/archives/178812) | 86 | Halloween 2 Event Hatcher | Yes
-[Miyamoto Musashi UA](http://game8.jp/archives/93298) | 86 | Wizard Quest | Yes
-[Loki Chemist Ver.](http://game8.jp/archives/179247) | 86 | Halloween 2 Event Ultimate Quest | Yes
-[Hatsune Miku V3](http://game8.jp/archives/43809) | 86 | Vocaloid Event Quest | Yes
-[Mazu UA](http://game8.jp/archives/116194) | 86 | Regional Festival | Yes
-Summer Han Xiangzi | [85] | Summer Event Hatcher | Yes
-[Summer Kenshin](http://game8.jp/archives/163380) | 85 [89] | Summer Event Hatcher | No
-[Dolce](http://game8.jp/archives/95126) | 85 | Halloween Event Quest | Yes
-[Summer Freyja (Tanned)](http://game8.jp/archives/164838) | 85 [86] | Summer Event Quest | Yes
-[Shizuo Heiwajima DRRR Collab](http://game8.jp/archives/55962) | 85 | DRRR Collab Hatcher | No
-[Typhon](http://game8.jp/archives/71149) | 84 | Wizard Quest | Yes
-[Matsuri Forneus](http://game8.jp/archives/166542) | 83 | Matsuri Event Hatcher | No
-[Indra](http://game8.jp/archives/93572) | 83 | Permanent Hatcher | Yes
-[Rachika/Latika](http://game8.jp/archives/106880) | 83 | Christmas Event Hatcher | Yes
-[G-Star Children UA](http://game8.jp/archives/142278) | 82 | Wizard Quest | No
-[Sphinx](http://game8.jp/archives/33746) | [82] | Permanent Hatcher | No
-Star Prince | [82] | Regional Festival | Yes
-[Summer Freyja](http://game8.jp/archives/163384) | [82] | Summer Hatcher | Yes
-[Hellsing](http://game8.jp/archives/161941) | 82 | Wizard Quest | Yes
-[Nicola/Nicolas UA](http://game8.jp/archives/108060) | 82 | Christmas Ranking Hatcher | Yes
-[Raphael/Rafaello](http://game8.jp/archives/87932) | 82 | Permanent Hatcher | Yes
-[Hel](http://game8.jp/archives/116951) | 82 | Wizard Quest | No
-[Qilin/Kirin](http://game8.jp/archives/40053) | 82 [89] | Ultimate Wizard Quest | Yes
-[Musashi Benkei](http://game8.jp/archives/83228) | 82 | Wizard Quest | Yes
-[Brave Lion/Lionheart](http://game8.jp/archives/39581) | 81 | Permanent Hatcher | No
-[Hacka Doll 1](http://game8.jp/archives/176749) | 80 | Hacka Doll Collab Quest | No
-[School Festival Baal](http://game8.jp/archives/174190) | 80 | School Event Hatcher | No
-[Yue Lao UA](http://game8.jp/archives/144170) | 80 | Limited Quest | No
-[Yue Lao](http://game8.jp/archives/114428) | 80 | Limited Quest | Yes
-[Kagamine Rin Vocaloid Collab](http://game8.jp/archives/43713) | 79 | Vocaloid Collab Hatcher | Yes
-[Gawain Halloween Ver.](http://game8.jp/archives/178811) | 79 | Halloween 2 Event Hatcher | Yes
-[Kagamine Len Vocaloid Collab](http://game8.jp/archives/44196) | 79 | Vocaloid Collab Hatcher | Yes
-[Yomi](http://game8.jp/archives/47883) | 78 | Wizard Quest | Yes
-[Hansel and Gretel](http://game8.jp/archives/35484) | 78 | Permanent Hatcher | Yes
-[Hajime Saito](http://game8.jp/archives/32729) | 78 [81] | Permanent Hatcher | Yes
-[Cascade](http://game8.jp/archives/90063) | 77 | Wizard Quest | Yes
-[Vishnu](http://game8.jp/archives/49371) | 77 | Permanent Hatcher | Yes
-[Bastet](http://game8.jp/archives/79526) | 77 | Permanent Hatcher | Yes
-[Ame no Uzume](http://game8.jp/archives/126854) | 77 | Permanent Hatcher | Yes
-[Astraea](http://game8.jp/archives/28752) | 76 | Permanent Hatcher | Yes
-[Ryuji Yamazaki](http://game8.jp/archives/156817) | 74 | KoF Collab Quest | Yes
-[Rin Inaba Vocaloid Collab](http://game8.jp/archives/120292) | 74 | Vocaloid Collab Quest | Yes
-[Izanami UA](http://game8.jp/archives/75766) | 74 | Permanent Hatcher | Yes
-[Grimm the Dandy](http://game8.jp/archives/131391) | 73 | White Day Event Quest | Yes
-[Musashi Miyamoto](http://game8.jp/archives/41714) | 73 | Wizard Quest | Yes
-[Cat Valkyrie](http://game8.jp/archives/133170) | 72 | BC Collab Quest | Yes
-[Shakespere](http://game8.jp/archives/101935) | 70 | Wizard Quest | Yes
-[Athena](http://game8.jp/archives/93365) | 70 | Wizard Quest | No
-[G-Star Children](http://game8.jp/archives/44313) | 69 | Wizard Quest | Yes
-[Byakko](http://game8.jp/archives/30545) | 68 | Link Hatcher | Yes
-[Phi](http://game8.jp/archives/161940) | 68 [72] | Anniversary Quest | Yes
-[Nimda](http://game8.jp/archives/41784) | 68 | Virus Link Hatcher | No
-[Tesla](http://game8.jp/archives/29764) | 67 | Challenge Tower | No
-[Kanbei](http://game8.jp/archives/41767) | 67 | New Year's Quest | Yes
-[~~Tensemi~~Diaochan](http://game8.jp/archives/91605) | 66 | Wizard Quest | Yes
-[Izanami](http://game8.jp/archives/28703) | 66 | Permanent Hatcher | Yes
-[Christmas Mikaela](http://game8.jp/archives/41044) | 66 | Christmas Event Hatcher | Yes
-[Mikaela](http://game8.jp/archives/30135) | 65 | Permanent Hatcher | Yes
-[Muse](http://game8.jp/archives/83626) | 65 | Downloads Event | No
-[Jaro](http://game8.jp/archives/151359) | 65 | AI Customize Unit | Yes
-Columbus | ? | Wizard Quest | Yes
+Name | Rating | Obtain Method
+:--|:--|:--
+[Hubble UA](http://game8.jp/archives/109104) | 98 [97] | Festival Hatcher
+[Faraday UA](http://game8.jp/archives/91383) | 98 [97] | Festival Hatcher
+[Swan](http://game8.jp/crashfever/184092) | 97 | Festival Hatcher
+[Coulomb](http://game8.jp/archives/173447) | 97 | Festival Hatcher
+[Kepler](http://game8.jp/archives/100890) | 96 [95] | Festival Hatcher
+[Laplace](http://game8.jp/archives/120674) | 96 | Festival Hatcher
+[Mephisto](http://game8.jp/archives/173701) | 95 | Ultimate Wizard Quest
+[Mersenne](http://game8.jp/archives/137271) | 94 | Festival Hatcher
+[Fermat UA](http://game8.jp/archives/103265) | 94 | Festival Hatcher
+Confucius | [95] | Regional Festival
+[Gungnir](http://game8.jp/archives/74434) | 93 | Spear Ranking Ticket
+[Caduceus](http://game8.jp/archives/105580) | 93 [94] | Staff Ranking Ticket
+[Kronecker UA](http://game8.jp/archives/109105) | 93 | Festival Hatcher
+[Fourier](http://game8.jp/archives/53007) | 92 [93] | Festival Hatcher
+[Hera](http://game8.jp/archives/97823) | 92 [88] | Ultimate Wizard Quest
+[Magician](http://game8.jp/archives/101074) | 92 | Ghost Store
+[Sanada Yukimura](http://game8.jp/archives/108589) | 92 | Permanent Hatcher
+[Balmung](http://game8.jp/archives/168993) | 91 | Sword Ver. 2 Ranking Ticket
+[Matsuri Artemis](http://game8.jp/archives/166532) | 91 [92] | Matsuri Event Hatcher
+[Senko](http://game8.jp/archives/139396) | 91 | Spring Event Hatcher
+[Bridegroom Zhuge](http://game8.jp/archives/154514) | 91 | Bridal Event Hatcher
+[Vanir](http://game8.jp/crashfever/182714) | 91 | Konosuba Collab Ultimate Quest
+[D'Artagnan](http://game8.jp/archives/140952) | 91 [92] | Permanent Hatcher
+[Baldr](http://game8.jp/archives/44468) | 91 | Permanent Hatcher
+[Zeus](http://game8.jp/archives/71148) | 91 | Ultimate Wizard Quest
+[Herschel UA](http://game8.jp/archives/85079) | 91 [92] | Festival Hatcher
+[Rapunzel](http://game8.jp/archives/42336) | 91 [90] | Permanent Hatcher
+[School Festival Kushinadahime](http://game8.jp/archives/174188) | 90 | School Event Hatcher
+[Loki Guard Ver.](http://game8.jp/archives/179246) | 90 [92] | Halloween 2 Event Ultimate Quest
+[Terry Bogard](http://game8.jp/archives/156806) | 90 | KoF Collab Hatcher
+[Metatron Emo Valentines Ver.](http://game8.jp/archives/124590) | 90 | Valentine's Event Hatcher
+[Matsuri Enkidu](http://game8.jp/archives/166531) | 89 | Matsuri Event Hatcher
+[Konokana Sakuya](http://game8.jp/archives/139390) | 89 | Spring Event Hatcher
+[Sakamoto Ryoma](http://game8.jp/archives/178293) | 89 | Permanent Hatcher
+[Susanoo](http://game8.jp/archives/131915) | 89 | Ultimate Wizard Quest
+[Cao Cao](http://game8.jp/archives/151390) | 89 [94] | Ultimate Wizard Quest
+[Alfheimr](http://game8.jp/archives/43296) | 89 | Permanent Hatcher
+[Date Masamune](http://game8.jp/archives/53962) | 89 [88] | Permanent Hatcher
+[Alphonse](http://game8.jp/archives/150116) | 88 | FMA Collab Hatcher
+[Artemis](http://game8.jp/archives/97782) | 88 | Permanent Hatcher
+[Aladdin](http://game8.jp/archives/61640) | 88 | Permanent Hatcher
+[Mazu](http://game8.jp/archives/103397) | 88 | Permanent Hatcher
+[Sanson](http://game8.jp/archives/73324) | 88 | Permanent Hatcher
+[Hilbert UA](http://game8.jp/archives/105577) | 88 | Ranking Hatcher
+[Marduk](http://game8.jp/archives/85081) | 88 | Permanent Hatcher
+[Darkness](http://game8.jp/crashfever/182710) | 88 | Konosuba Collab Hatcher
+[Loki Halloween Ver.](http://game8.jp/archives/179248) | 88 [90] | Halloween 2 Event Ultimate Quest
+[Fresnel UA](http://game8.jp/archives/124539) | 88 | Ranking Hatcher
+[Lemuria](http://game8.jp/archives/124490) | 88 | Ghost Store
+[Thunder God Sandia 'Beta'/Thundia](http://game8.jp/archives/133169) | 88 | BC Collab Hatcher
+[Rupika/Lupica](http://game8.jp/archives/87713) | 87 | Wizard Quest
+[He Xiangu](http://game8.jp/archives/146262) | 87 | Regional Festival
+Wings of Chaos Lucifer | [87] | ToS Collab Ultimate Quest
+[Spring/Ohanami Ushiwakamaru](http://game8.jp/archives/139391) | 87 | Spring Event Hatcher
+[Kagamine Rin V4X Vocaloid Collab](http://game8.jp/archives/119980) | 87 | Vocaloid Collab Hatcher
+[Matsuri Yatagarasu](http://game8.jp/archives/166541) | 87 | Matsuri Event Hatcher
+[Kirin/Qilin UA](http://game8.jp/archives/93297) | 87 [89] | Ultimate Wizard Quest
+[Sei Shonagon](http://game8.jp/archives/83098) | 87 | Permanent Hatcher
+[Fresnel](http://game8.jp/archives/74428) | 87 | Ranking Hatcher
+[Benimaru Nikaido](http://game8.jp/archives/156803) | 86 | KoF Collab Hatcher
+[Edward](http://game8.jp/archives/150117) | 86 | FMA Collab Hatcher
+Zhang Guolao | [86] | Wizard Quest
+[Kagamine Len V4X](http://game8.jp/archives/119981) | 86 | Vocaloid Collab Hatcher
+[Miku Lucifer](http://game8.jp/archives/120294) | 86 | Vocaloid Collab Ultimate Quest
+[Astaroth](http://game8.jp/archives/37493) | 86 | Permanent Hatcher
+[Natsume Soseki](http://game8.jp/archives/101917) | 86 | Permanent Hatcher
+[Nicola/Nicolas](http://game8.jp/archives/107287) | 86 | Christmas Ranking Hatcher
+[Hilbert](http://game8.jp/archives/105576) | 86 | Ranking Hatcher
+[Napoleon Halloween Ver.](http://game8.jp/archives/178812) | 86 [88] | Halloween 2 Event Hatcher
+[Miyamoto Musashi UA](http://game8.jp/archives/93298) | 86 | Wizard Quest
+[Loki Chemist Ver.](http://game8.jp/archives/179247) | 86 | Halloween 2 Event Ultimate Quest
+[Hatsune Miku V3](http://game8.jp/archives/43809) | 86 | Vocaloid Event Quest
+[Mazu UA](http://game8.jp/archives/116194) | 86 | Regional Festival
+Summer Han Xiangzi | [85] | Summer Event Hatcher
+[Summer Kenshin](http://game8.jp/archives/163380) | 85 [89] | Summer Event Hatcher
+[Dolce](http://game8.jp/archives/95126) | 85 | Halloween Event Quest
+[Summer Freyja (Tanned)](http://game8.jp/archives/164838) | 85 [86] | Summer Event Quest
+[Shizuo Heiwajima DRRR Collab](http://game8.jp/archives/55962) | 85 | DRRR Collab Hatcher
+[Typhon](http://game8.jp/archives/71149) | 84 | Wizard Quest
+[Matsuri Forneus](http://game8.jp/archives/166542) | 83 | Matsuri Event Hatcher
+[Indra](http://game8.jp/archives/93572) | 83 | Permanent Hatcher
+[Rachika/Latika](http://game8.jp/archives/106880) | 83 | Christmas Event Hatcher
+[G-Star Children UA](http://game8.jp/archives/142278) | 82 | Wizard Quest
+[Sphinx](http://game8.jp/archives/33746) | [82] | Permanent Hatcher
+[Star Prince](http://game8.jp/crashfever/185757) | [82] | Regional Festival
+[Summer Freyja](http://game8.jp/archives/163384) | [82] | Summer Hatcher
+[Hellsing](http://game8.jp/archives/161941) | 82 | Wizard Quest
+[Nicola/Nicolas UA](http://game8.jp/archives/108060) | 82 | Christmas Ranking Hatcher
+[Raphael/Rafaello](http://game8.jp/archives/87932) | 82 | Permanent Hatcher
+[Hel](http://game8.jp/archives/116951) | 82 | Wizard Quest
+[Qilin/Kirin](http://game8.jp/archives/40053) | 82 [89] | Ultimate Wizard Quest
+[Musashi Benkei](http://game8.jp/archives/83228) | 82 | Wizard Quest
+[Brave Lion/Lionheart](http://game8.jp/archives/39581) | 81 | Permanent Hatcher
+[Hacka Doll 1](http://game8.jp/archives/176749) | 80 | Hacka Doll Collab Quest
+[School Festival Baal](http://game8.jp/archives/174190) | 80 | School Event Hatcher
+[Yue Lao UA](http://game8.jp/archives/144170) | 80 | Limited Quest
+[Yue Lao](http://game8.jp/archives/114428) | 80 | Limited Quest
+[Kagamine Rin Vocaloid Collab](http://game8.jp/archives/43713) | 79 | Vocaloid Collab Hatcher
+[Gawain Halloween Ver.](http://game8.jp/archives/178811) | 79 | Halloween 2 Event Hatcher
+[Kagamine Len Vocaloid Collab](http://game8.jp/archives/44196) | 79 | Vocaloid Collab Hatcher
+[Yomi](http://game8.jp/archives/47883) | 78 | Wizard Quest
+[Hansel and Gretel](http://game8.jp/archives/35484) | 78 | Permanent Hatcher
+[Hajime Saito](http://game8.jp/archives/32729) | 78 [81] | Permanent Hatcher
+[Cascade](http://game8.jp/archives/90063) | 77 | Wizard Quest
+[Vishnu](http://game8.jp/archives/49371) | 77 | Permanent Hatcher
+[Bastet](http://game8.jp/archives/79526) | 77 | Permanent Hatcher
+[Ame no Uzume](http://game8.jp/archives/126854) | 77 | Permanent Hatcher
+[Astraea](http://game8.jp/archives/28752) | 76 | Permanent Hatcher
+[Tamamo](http://game8.jp/crashfever/29973) | 75 | Material Quest
+[Ryuji Yamazaki](http://game8.jp/archives/156817) | 74 | KoF Collab Quest
+[Rin Inaba Vocaloid Collab](http://game8.jp/archives/120292) | 74 | Vocaloid Collab Quest
+[Izanami UA](http://game8.jp/archives/75766) | 74 | Permanent Hatcher
+[Grimm the Dandy](http://game8.jp/archives/131391) | 73 | White Day Event Quest
+[Musashi Miyamoto](http://game8.jp/archives/41714) | 73 | Wizard Quest
+[Cat Valkyrie](http://game8.jp/archives/133170) | 72 | BC Collab Quest
+[Shakespere](http://game8.jp/archives/101935) | 70 | Wizard Quest
+[Athena](http://game8.jp/archives/93365) | 70 | Wizard Quest
+[G-Star Children](http://game8.jp/archives/44313) | 69 | Wizard Quest
+[Byakko](http://game8.jp/archives/30545) | 68 | Link Hatcher
+[Phi](http://game8.jp/archives/161940) | 68 [72] | Anniversary Quest
+[Nimda](http://game8.jp/archives/41784) | 68 | Virus Link Hatcher
+[Tesla](http://game8.jp/archives/29764) | 67 | Challenge Tower
+[Kanbei](http://game8.jp/archives/41767) | 67 | New Year's Quest
+[Diaochan](http://game8.jp/archives/91605) | 66 | Wizard Quest
+[Izanami](http://game8.jp/archives/28703) | 66 | Permanent Hatcher
+[Christmas Mikaela](http://game8.jp/archives/41044) | 66 | Christmas Event Hatcher
+[Mikaela](http://game8.jp/archives/30135) | 65 | Permanent Hatcher
+[Muse](http://game8.jp/archives/83626) | 65 | Downloads Event
+[Jaro](http://game8.jp/archives/151359) | 65 | AI Customize Unit
+Columbus | ? | Wizard Quest
+Yog-Sothoth | ? | Cthulhu Event Ultimate Quest
 
 #Good 5\* units for cost limit quests
 
@@ -545,5 +570,3 @@ Columbus | ? | Wizard Quest | Yes
 |Yuno | | Robin Hood | 
 | | | Santa Ose 5* | 
 | | | Vice | 
-
-If there are any issues with the list, please contact me on Reddit (u/Ampuri) or the CF Discord (@Kreyni#1478).
