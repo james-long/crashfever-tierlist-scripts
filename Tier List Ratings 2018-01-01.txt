@@ -1,16 +1,3 @@
-#Important Notes
-
-* **Only 6 stars are listed here.** There is a section at the bottom for good 5 stars. This means everything on the list gets a 6* eventually.
-* In the Obtain Methods column, (H) means Hatcher and (Q) means Quest.
-* Ratings in square brackets are the Discord rating for a unit - these are discussed by the Discord community and aim to correct contentious Game8 ratings.
-* Units that do not have links are not in the JP version, and thus Game8 does not make unit pages on them. Similarly, some units do not have  ratings because Game8 has not rated them yet.
-* If you have any questions to as why a unit got a ranking, or notice an error in the list, contact me and I'll reply as soon as I can.
-
-New Year New List: Updates!
-
-* Because of budget cuts, the very last colour (Yellow) had to be moved to its own comment. This comment will be stickied in the thread, and hopefully will still receive the love it deserves.
-* The list of good 5* units has been retired for now due to never being updated. Look forward to it returning in the future, potentially.
-
 #Red Units
 
 Name | Rating | Obtain Method
@@ -440,3 +427,147 @@ Circe | [73] | ToS Collab (Q)
 Shoggoth | ? | Cthulhu Event Reward
 [Janghwa](http://game8.jp/crashfever/185756) | ? | Regional Festival (H)
 [New Year Susanoo](http://game8.jp/crashfever/196411) | ? | New Year Event (Q)
+
+#Yellow Units
+
+Name | Rating | Obtain Method
+:--|:--|:--
+[Hubble UA](http://game8.jp/archives/109104) | 98 [97] | Festival (H)
+[Faraday UA](http://game8.jp/archives/91383) | 98 [97] | Festival (H)
+[Swan](http://game8.jp/crashfever/184092) | 97 | Festival (H)
+[Coulomb](http://game8.jp/archives/173447) | 97 | Festival (H)
+[Kepler](http://game8.jp/archives/100890) | 96 [95] | Festival (H)
+[Laplace](http://game8.jp/archives/120674) | 96 | Festival (H)
+[Mephisto](http://game8.jp/archives/173701) | 95 | Ultimate Wizard (Q)
+[Mersenne](http://game8.jp/archives/137271) | 94 | Festival (H)
+[Christmas Boole](http://game8.jp/crashfever/191662) | 94 | Christmas Event (H)
+[Poinsettia](http://game8.jp/crashfever/190063) | 94 | Christmas Ranking Reward
+[Fermat UA](http://game8.jp/archives/103265) | 94 | Festival (H)
+Confucius | [95] | Regional Festival (H)
+[Gungnir](http://game8.jp/archives/74434) | 93 | Spear Ranking Ticket
+[Caduceus](http://game8.jp/archives/105580) | 93 [94] | Staff Ranking Ticket
+[Kronecker UA](http://game8.jp/archives/109105) | 93 | Festival (H)
+[Fourier](http://game8.jp/archives/53007) | 92 [93] | Festival (H)
+[Hera](http://game8.jp/archives/97823) | 92 [88] | Ultimate Wizard (Q)
+[Magician](http://game8.jp/archives/101074) | 92 | Ghost Shop
+[Sanada Yukimura](http://game8.jp/archives/108589) | 92 | Permanent (H)
+[Balmung](http://game8.jp/archives/168993) | 91 | Sword Ranking Ticket
+[Matsuri Artemis](http://game8.jp/archives/166532) | 91 [92] | Matsuri Event (H)
+[Senko](http://game8.jp/archives/139396) | 91 | Spring Event (H)
+[Bridegroom Zhuge](http://game8.jp/archives/154514) | 91 | Bridal Event (H)
+[Vanir](http://game8.jp/crashfever/182714) | 91 | Konosuba Collab Ultimate (Q)
+[D'Artagnan](http://game8.jp/archives/140952) | 91 [92] | Permanent (H)
+[Baldr](http://game8.jp/archives/44468) | 91 | Permanent (H)
+[Zeus](http://game8.jp/archives/71148) | 91 | Ultimate Wizard (Q)
+[Herschel UA](http://game8.jp/archives/85079) | 91 [92] | Festival (H)
+[Rapunzel](http://game8.jp/archives/42336) | 91 [90] | Permanent (H)
+[School Festival Kushinadahime](http://game8.jp/archives/174188) | 90 | School Event (H)
+[Loki Guard Ver.](http://game8.jp/archives/179246) | 90 [92] | Halloween 2 Event Ultimate (Q)
+[Terry Bogard](http://game8.jp/archives/156806) | 90 | KoF Collab (H)
+[Metatron Emo Valentines Ver.](http://game8.jp/archives/124590) | 90 | Valentine's Event (H)
+[Matsuri Enkidu](http://game8.jp/archives/166531) | 89 | Matsuri Event (H)
+[Konokana Sakuya](http://game8.jp/archives/139390) | 89 | Spring Event (H)
+[Sakamoto Ryoma](http://game8.jp/archives/178293) | 89 | Permanent (H)
+[Susanoo](http://game8.jp/archives/131915) | 89 | Ultimate Wizard (Q)
+[Cao Cao](http://game8.jp/archives/151390) | 89 [94] | Ultimate Wizard (Q)
+[Alfheimr](http://game8.jp/archives/43296) | 89 | Permanent (H)
+[Date Masamune](http://game8.jp/archives/53962) | 89 [88] | Permanent (H)
+[Alphonse](http://game8.jp/archives/150116) | 88 | FMA Collab (H)
+[Artemis](http://game8.jp/archives/97782) | 88 | Permanent (H)
+[Christmas Holmes](http://game8.jp/crashfever/191664) | 88 | Christmas Event (H)
+[Aladdin](http://game8.jp/archives/61640) | 88 | Permanent (H)
+[Mazu](http://game8.jp/archives/103397) | 88 | Permanent (H)
+[Sanson](http://game8.jp/archives/73324) | 88 | Permanent (H)
+[Hilbert UA](http://game8.jp/archives/105577) | 88 | Ranking (H)
+[Marduk](http://game8.jp/archives/85081) | 88 | Permanent (H)
+[Darkness](http://game8.jp/crashfever/182710) | 88 | Konosuba Collab (H)
+[Loki Halloween Ver.](http://game8.jp/archives/179248) | 88 [90] | Halloween 2 Event Ultimate (Q)
+[Fresnel UA](http://game8.jp/archives/124539) | 88 | Ranking (H)
+[Lemuria](http://game8.jp/archives/124490) | 88 | Ghost Shop
+[Thunder God Sandia 'Beta'/Thundia](http://game8.jp/archives/133169) | 88 | BC Collab (H)
+[Rupika/Lupica](http://game8.jp/archives/87713) | 87 | Wizard (Q)
+[He Xiangu](http://game8.jp/archives/146262) | 87 | Regional Festival (H)
+Wings of Chaos Lucifer | [87] | ToS Collab Ultimate (Q)
+[Spring/Ohanami Ushiwakamaru](http://game8.jp/archives/139391) | 87 | Spring Event (H)
+[Kagamine Rin V4X Vocaloid Collab](http://game8.jp/archives/119980) | 87 | Vocaloid Collab (H)
+[Matsuri Yatagarasu](http://game8.jp/archives/166541) | 87 | Matsuri Event (H)
+[Kirin/Qilin UA](http://game8.jp/archives/93297) | 87 [89] | Ultimate Wizard (Q)
+[Sei Shonagon](http://game8.jp/archives/83098) | 87 | Permanent (H)
+[Fresnel](http://game8.jp/archives/74428) | 87 | Ranking (H)
+[Benimaru Nikaido](http://game8.jp/archives/156803) | 86 | KoF Collab (H)
+[Christmas Touka](http://game8.jp/crashfever/191663) | 86 | Christmas Event (H)
+[Edward](http://game8.jp/archives/150117) | 86 | FMA Collab (H)
+Zhang Guolao | [86] | Wizard (Q)
+[Kagamine Len V4X](http://game8.jp/archives/119981) | 86 | Vocaloid Collab (H)
+[Miku Lucifer](http://game8.jp/archives/120294) | 86 | Vocaloid Collab Ultimate (Q)
+[Astaroth](http://game8.jp/archives/37493) | 86 | Permanent (H)
+[Natsume Soseki](http://game8.jp/archives/101917) | 86 | Permanent (H)
+[Nicola/Nicolas](http://game8.jp/archives/107287) | 86 | Christmas Ranking (H)
+[Hilbert](http://game8.jp/archives/105576) | 86 | Ranking (H)
+[Napoleon Halloween Ver.](http://game8.jp/archives/178812) | 86 [88] | Halloween 2 Event (H)
+[Miyamoto Musashi UA](http://game8.jp/archives/93298) | 86 | Wizard (Q)
+[Loki Chemist Ver.](http://game8.jp/archives/179247) | 86 | Halloween 2 Event Ultimate (Q)
+[Hatsune Miku V3](http://game8.jp/archives/43809) | 86 | Vocaloid Event (Q)
+[Mazu UA](http://game8.jp/archives/116194) | 86 | Regional Festival (H)
+Summer Han Xiangzi | [85] | Summer Event (H)
+[Summer Kenshin](http://game8.jp/archives/163380) | 85 [89] | Summer Event (H)
+[Dolce](http://game8.jp/archives/95126) | 85 | Halloween Event (Q)
+[Summer Freyja (Tanned)](http://game8.jp/archives/164838) | 85 [86] | Summer Event (Q)
+[Shizuo Heiwajima DRRR Collab](http://game8.jp/archives/55962) | 85 | DRRR Collab (H)
+[Typhon](http://game8.jp/archives/71149) | 84 | Wizard (Q)
+[Matsuri Forneus](http://game8.jp/archives/166542) | 83 | Matsuri Event (H)
+[Indra](http://game8.jp/archives/93572) | 83 | Permanent (H)
+[Rachika/Latika](http://game8.jp/archives/106880) | 83 | Christmas Event (H)
+[G-Star Children UA](http://game8.jp/archives/142278) | 82 | Wizard (Q)
+[Sphinx](http://game8.jp/archives/33746) | [82] | Permanent (H)
+[Star Prince](http://game8.jp/crashfever/185757) | [82] | Regional Festival (H)
+[Summer Freyja](http://game8.jp/archives/163384) | [82] | Summer (H)
+[Hellsing](http://game8.jp/archives/161941) | 82 | Wizard (Q)
+[Nicola/Nicolas UA](http://game8.jp/archives/108060) | 82 | Christmas Ranking (H)
+[Raphael/Rafaello](http://game8.jp/archives/87932) | 82 | Permanent (H)
+[Hel](http://game8.jp/archives/116951) | 82 | Wizard (Q)
+[Qilin/Kirin](http://game8.jp/archives/40053) | 82 [89] | Ultimate Wizard (Q)
+[Musashi Benkei](http://game8.jp/archives/83228) | 82 | Wizard (Q)
+[Brave Lion/Lionheart](http://game8.jp/archives/39581) | 81 | Permanent (H)
+[Hacka Doll 1](http://game8.jp/archives/176749) | 80 | Hacka Doll Collab (Q)
+[Edmond Dantes (Hacka Doll Reskin)](http://game8.jp/archives/176749) | 80 | TMT Event (Q)
+[School Festival Baal](http://game8.jp/archives/174190) | 80 | School Event (H)
+[Yue Lao UA](http://game8.jp/archives/144170) | 80 | Limited (Q)
+[Yue Lao](http://game8.jp/archives/114428) | 80 | Limited (Q)
+[Kagamine Rin Vocaloid Collab](http://game8.jp/archives/43713) | 79 | Vocaloid Collab (H)
+[Gawain Halloween Ver.](http://game8.jp/archives/178811) | 79 | Halloween 2 Event (H)
+[Kagamine Len Vocaloid Collab](http://game8.jp/archives/44196) | 79 | Vocaloid Collab (H)
+[Yomi](http://game8.jp/archives/47883) | 78 | Wizard (Q)
+[Hansel and Gretel](http://game8.jp/archives/35484) | 78 | Permanent (H)
+[Hajime Saito](http://game8.jp/archives/32729) | 78 [81] | Permanent (H)
+[Cascade](http://game8.jp/archives/90063) | 77 | Wizard (Q)
+[Vishnu](http://game8.jp/archives/49371) | 77 | Permanent (H)
+[Bastet](http://game8.jp/archives/79526) | 77 | Permanent (H)
+[Ame no Uzume](http://game8.jp/archives/126854) | 77 | Permanent (H)
+[Astraea](http://game8.jp/archives/28752) | 76 | Permanent (H)
+[Tamamo](http://game8.jp/crashfever/29973) | 75 | Material (Q)
+[Ryuji Yamazaki](http://game8.jp/archives/156817) | 74 | KoF Collab (Q)
+[Rin Inaba Vocaloid Collab](http://game8.jp/archives/120292) | 74 | Vocaloid Collab (Q)
+[Izanami UA](http://game8.jp/archives/75766) | 74 | Permanent (H)
+[Grimm the Dandy](http://game8.jp/archives/131391) | 73 | White Day Event (Q)
+[Musashi Miyamoto](http://game8.jp/archives/41714) | 73 | Wizard (Q)
+[Cat Valkyrie](http://game8.jp/archives/133170) | 72 | BC Collab (Q)
+[Shakespere](http://game8.jp/archives/101935) | 70 | Wizard (Q)
+[Tristan](http://game8.jp/crashfever/39798) | 70 | Permanent (H)
+[Athena](http://game8.jp/archives/93365) | 70 | Wizard (Q)
+[G-Star Children](http://game8.jp/archives/44313) | 69 | Wizard (Q)
+[Byakko](http://game8.jp/archives/30545) | 68 | Link (H)
+[Phi](http://game8.jp/archives/161940) | 68 [72] | Anniversary (Q)
+[Nimda](http://game8.jp/archives/41784) | 68 | Virus Link (H)
+[Tesla](http://game8.jp/archives/29764) | 67 | Challenge Tower
+[Kanbei](http://game8.jp/archives/41767) | 67 | New Year Event (Q)
+[Diaochan](http://game8.jp/archives/91605) | 66 | Wizard (Q)
+[Izanami](http://game8.jp/archives/28703) | 66 | Permanent (H)
+[Christmas Mikaela](http://game8.jp/archives/41044) | 66 | Christmas Event (H)
+[Mikaela](http://game8.jp/archives/30135) | 65 | Permanent (H)
+[Muse](http://game8.jp/archives/83626) | 65 | Downloads Event
+[Jaro](http://game8.jp/archives/151359) | 65 | AI Customize Unit
+[Gift Box - Mini Demia](http://game8.jp/crashfever/195954) | ? | Christmas Event Gift
+Columbus | ? | Wizard (Q)
+Yog-Sothoth | ? | Cthulhu Event Ultimate (Q)
+
